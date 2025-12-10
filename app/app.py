@@ -262,11 +262,52 @@ st.markdown("<h1 style='text-align: center;'>📊 Simulador de Ventas - Noviembr
 st.markdown("<p style='text-align: center; color: white; font-size: 18px;'>Predicción inteligente con Machine Learning</p>", unsafe_allow_html=True)
 st.markdown("---")
 
+# Cargar datos y modelo al inicio (para tener productos disponibles)
+with st.spinner('⏳ Cargando datos...'):
+    df_inferencia = cargar_datos()
+    modelo = cargar_modelo()
+
+if df_inferencia is None or modelo is None:
+    st.error("❌ No se pudieron cargar los datos o el modelo")
+    st.stop()
+
+# Obtener lista de productos únicos
+productos = sorted(df_inferencia['nombre'].unique())
+
 # ==========================
 # SIDEBAR - CONTROLES
 # ==========================
 
 st.sidebar.markdown("## 🎛️ Controles de Simulación")
+st.sidebar.markdown("---")
+
+# Selector de producto
+producto_seleccionado = st.sidebar.selectbox(
+    "🛍️ Selecciona un Producto",
+    productos,
+    index=0
+)
+
+# Slider de descuento
+ajuste_descuento = st.sidebar.slider(
+    "💰 Ajuste de Descuento",
+    min_value=-50,
+    max_value=50,
+    value=0,
+    step=5,
+    format="%d%%",
+    help="Ajusta el descuento sobre el precio base"
+)
+
+# Selector de escenario de competencia
+st.sidebar.markdown("### 🏪 Escenario de Competencia")
+escenario_competencia = st.sidebar.radio(
+    "",
+    ["Actual (0%)", "Competencia -5%", "Competencia +5%"],
+    index=0,
+    help="Simula cambios en los precios de la competencia"
+)
+
 st.sidebar.markdown("---")
 
 # Botón de simulación
@@ -289,43 +330,6 @@ st.sidebar.info("""
 # ==========================
 
 if simular:
-    # Cargar datos y modelo
-    df_inferencia = cargar_datos()
-    modelo = cargar_modelo()
-
-    if df_inferencia is None or modelo is None:
-        st.stop()
-
-    # Obtener lista de productos únicos
-    productos = sorted(df_inferencia['nombre'].unique())
-
-    # Selector de producto
-    producto_seleccionado = st.sidebar.selectbox(
-        "🛍️ Selecciona un Producto",
-        productos,
-        index=0
-    )
-
-    # Slider de descuento
-    ajuste_descuento = st.sidebar.slider(
-        "💰 Ajuste de Descuento",
-        min_value=-50,
-        max_value=50,
-        value=0,
-        step=5,
-        format="%d%%",
-        help="Ajusta el descuento sobre el precio base"
-    )
-
-    # Selector de escenario de competencia
-    st.sidebar.markdown("### 🏪 Escenario de Competencia")
-    escenario_competencia = st.sidebar.radio(
-        "",
-        ["Actual (0%)", "Competencia -5%", "Competencia +5%"],
-        index=0,
-        help="Simula cambios en los precios de la competencia"
-    )
-
     with st.spinner('⏳ Procesando predicciones recursivas...'):
         # Filtrar datos del producto seleccionado
         df_producto = df_inferencia[df_inferencia['nombre'] == producto_seleccionado].copy()
