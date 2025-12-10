@@ -16,9 +16,6 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
-# Mensaje de bienvenida inmediato
-st.markdown("<h1 style='text-align: center; color: #667eea;'>📊 Simulador de Ventas - Noviembre 2025</h1>", unsafe_allow_html=True)
-
 # Estilos CSS personalizados
 st.markdown("""
 <style>
@@ -26,10 +23,24 @@ st.markdown("""
         background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
     }
     .stMetric {
-        background-color: white;
-        padding: 15px;
-        border-radius: 10px;
-        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        background-color: white !important;
+        padding: 20px !important;
+        border-radius: 10px !important;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1) !important;
+    }
+    .stMetric label {
+        color: #333333 !important;
+        font-weight: bold !important;
+        font-size: 14px !important;
+    }
+    .stMetric [data-testid="stMetricValue"] {
+        color: #667eea !important;
+        font-size: 28px !important;
+        font-weight: bold !important;
+    }
+    .stMetric [data-testid="stMetricDelta"] {
+        color: #666666 !important;
+        font-size: 12px !important;
     }
     .stButton>button {
         width: 100%;
@@ -52,11 +63,19 @@ st.markdown("""
         background-color: white;
         border-radius: 10px;
     }
+    /* Asegurar que el texto en las tablas sea visible */
+    .stDataFrame tbody tr td {
+        color: #333333 !important;
+    }
+    .stDataFrame thead tr th {
+        background-color: #667eea !important;
+        color: white !important;
+    }
 </style>
 """, unsafe_allow_html=True)
 
 # Función para cargar datos
-@st.cache_data
+@st.cache_data(show_spinner=False)
 def cargar_datos():
     """Carga el dataframe de inferencia"""
     try:
@@ -68,7 +87,7 @@ def cargar_datos():
         return None
 
 # Función para cargar el modelo
-@st.cache_resource
+@st.cache_resource(show_spinner=False)
 def cargar_modelo():
     """Carga el modelo entrenado"""
     try:
@@ -243,50 +262,11 @@ st.markdown("<h1 style='text-align: center;'>📊 Simulador de Ventas - Noviembr
 st.markdown("<p style='text-align: center; color: white; font-size: 18px;'>Predicción inteligente con Machine Learning</p>", unsafe_allow_html=True)
 st.markdown("---")
 
-# Cargar datos y modelo
-df_inferencia = cargar_datos()
-modelo = cargar_modelo()
-
-if df_inferencia is None or modelo is None:
-    st.stop()
-
 # ==========================
 # SIDEBAR - CONTROLES
 # ==========================
 
 st.sidebar.markdown("## 🎛️ Controles de Simulación")
-st.sidebar.markdown("---")
-
-# Obtener lista de productos únicos
-productos = sorted(df_inferencia['nombre'].unique())
-
-# Selector de producto
-producto_seleccionado = st.sidebar.selectbox(
-    "🛍️ Selecciona un Producto",
-    productos,
-    index=0
-)
-
-# Slider de descuento
-ajuste_descuento = st.sidebar.slider(
-    "💰 Ajuste de Descuento",
-    min_value=-50,
-    max_value=50,
-    value=0,
-    step=5,
-    format="%d%%",
-    help="Ajusta el descuento sobre el precio base"
-)
-
-# Selector de escenario de competencia
-st.sidebar.markdown("### 🏪 Escenario de Competencia")
-escenario_competencia = st.sidebar.radio(
-    "",
-    ["Actual (0%)", "Competencia -5%", "Competencia +5%"],
-    index=0,
-    help="Simula cambios en los precios de la competencia"
-)
-
 st.sidebar.markdown("---")
 
 # Botón de simulación
@@ -309,6 +289,43 @@ st.sidebar.info("""
 # ==========================
 
 if simular:
+    # Cargar datos y modelo
+    df_inferencia = cargar_datos()
+    modelo = cargar_modelo()
+
+    if df_inferencia is None or modelo is None:
+        st.stop()
+
+    # Obtener lista de productos únicos
+    productos = sorted(df_inferencia['nombre'].unique())
+
+    # Selector de producto
+    producto_seleccionado = st.sidebar.selectbox(
+        "🛍️ Selecciona un Producto",
+        productos,
+        index=0
+    )
+
+    # Slider de descuento
+    ajuste_descuento = st.sidebar.slider(
+        "💰 Ajuste de Descuento",
+        min_value=-50,
+        max_value=50,
+        value=0,
+        step=5,
+        format="%d%%",
+        help="Ajusta el descuento sobre el precio base"
+    )
+
+    # Selector de escenario de competencia
+    st.sidebar.markdown("### 🏪 Escenario de Competencia")
+    escenario_competencia = st.sidebar.radio(
+        "",
+        ["Actual (0%)", "Competencia -5%", "Competencia +5%"],
+        index=0,
+        help="Simula cambios en los precios de la competencia"
+    )
+
     with st.spinner('⏳ Procesando predicciones recursivas...'):
         # Filtrar datos del producto seleccionado
         df_producto = df_inferencia[df_inferencia['nombre'] == producto_seleccionado].copy()
