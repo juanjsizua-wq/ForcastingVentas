@@ -16,6 +16,9 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
+# Mensaje de bienvenida inmediato
+st.markdown("<h1 style='text-align: center; color: #667eea;'>📊 Simulador de Ventas - Noviembre 2025</h1>", unsafe_allow_html=True)
+
 # Estilos CSS personalizados
 st.markdown("""
 <style>
@@ -383,70 +386,6 @@ if simular:
         st.markdown("### 📋 Detalle Diario de Predicciones")
         tabla_detallada = crear_tabla_detallada(df_resultado)
         st.dataframe(tabla_detallada, use_container_width=True, hide_index=True)
-        
-        st.markdown("---")
-        
-        # ==========================
-        # COMPARATIVA DE ESCENARIOS
-        # ==========================
-        st.markdown("### 🔄 Comparativa de Escenarios de Competencia")
-        st.markdown("*Comparación manteniendo el mismo descuento seleccionado*")
-        
-        col1, col2, col3 = st.columns(3)
-        
-        escenarios = ["Actual (0%)", "Competencia -5%", "Competencia +5%"]
-        resultados_escenarios = {}
-        
-        for esc in escenarios:
-            df_esc = aplicar_escenario(df_producto, ajuste_descuento, esc)
-            df_pred_esc = predecir_recursivo(modelo, df_esc)
-            resultados_escenarios[esc] = {
-                'unidades': int(df_pred_esc['unidades_predichas'].sum()),
-                'ingresos': df_pred_esc['ingresos_proyectados'].sum()
-            }
-        
-        with col1:
-            st.markdown("#### 🔵 Sin Cambios")
-            st.metric(
-                "Unidades",
-                f"{resultados_escenarios['Actual (0%)']['unidades']:,}"
-            )
-            st.metric(
-                "Ingresos",
-                f"{resultados_escenarios['Actual (0%)']['ingresos']:,.2f}€"
-            )
-        
-        with col2:
-            st.markdown("#### 🟢 Competencia -5%")
-            delta_unidades = resultados_escenarios['Competencia -5%']['unidades'] - resultados_escenarios['Actual (0%)']['unidades']
-            delta_ingresos = resultados_escenarios['Competencia -5%']['ingresos'] - resultados_escenarios['Actual (0%)']['ingresos']
-            
-            st.metric(
-                "Unidades",
-                f"{resultados_escenarios['Competencia -5%']['unidades']:,}",
-                delta=f"{delta_unidades:+,}"
-            )
-            st.metric(
-                "Ingresos",
-                f"{resultados_escenarios['Competencia -5%']['ingresos']:,.2f}€",
-                delta=f"{delta_ingresos:+,.2f}€"
-            )
-        
-        with col3:
-            st.markdown("#### 🔴 Competencia +5%")
-            delta_unidades = resultados_escenarios['Competencia +5%']['unidades'] - resultados_escenarios['Actual (0%)']['unidades']
-            delta_ingresos = resultados_escenarios['Competencia +5%']['ingresos'] - resultados_escenarios['Actual (0%)']['ingresos']
-            
-            st.metric(
-                "Unidades",
-                f"{resultados_escenarios['Competencia +5%']['unidades']:,}",
-                delta=f"{delta_unidades:+,}"
-            )
-            st.metric(
-                "Ingresos",
-                f"{resultados_escenarios['Competencia +5%']['ingresos']:,.2f}€",
-                delta=f"{delta_ingresos:+,.2f}€"
-            )
         
         st.markdown("---")
         st.success("✅ Simulación completada exitosamente")
