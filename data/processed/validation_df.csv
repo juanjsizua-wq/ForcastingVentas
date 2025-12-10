@@ -1,0 +1,889 @@
+fecha,producto_id,nombre,categoria,subcategoria,precio_base,es_estrella,unidades_vendidas,precio_venta,ingresos,año,día_semana,Amazon
+2024-10-25,PROD_001,Nike Air Zoom Pegasus 40,Running,Zapatillas Running,115,True,16,117.31,1876.96,2024,Friday,89.44
+2024-10-25,PROD_002,Adidas Ultraboost 23,Running,Zapatillas Running,135,True,15,133.41,2001.15,2024,Friday,128.73
+2024-10-25,PROD_003,Asics Gel Nimbus 25,Running,Zapatillas Running,85,False,3,85.11,255.33,2024,Friday,88.96
+2024-10-25,PROD_004,New Balance Fresh Foam X 1080v12,Running,Zapatillas Running,75,False,3,74.11,222.33,2024,Friday,71.01
+2024-10-25,PROD_005,Nike Dri-FIT Miler,Running,Ropa Running,35,False,3,34.55,103.65,2024,Friday,35.69
+2024-10-25,PROD_006,Adidas Own The Run Jacket,Running,Ropa Running,65,False,3,63.85,191.55,2024,Friday,61.22
+2024-10-25,PROD_007,Puma Velocity Nitro 2,Running,Zapatillas Running,70,False,2,70.8,141.6,2024,Friday,70.28
+2024-10-25,PROD_008,Reebok Floatride Energy 5,Running,Zapatillas Running,65,False,2,65.96,131.92,2024,Friday,62.83
+2024-10-25,PROD_009,Bowflex SelectTech 552,Fitness,Mancuernas Ajustables,400,True,2,396.71,793.42,2024,Friday,402.53
+2024-10-25,PROD_010,Domyos BM900,Fitness,Banco Gimnasio,175,True,2,176.19,352.38,2024,Friday,193.41
+2024-10-25,PROD_011,Reebok Professional Deck,Fitness,Esterilla Fitness,45,False,3,44.21,132.63,2024,Friday,42.15
+2024-10-25,PROD_012,Domyos Kit Mancuernas 20kg,Fitness,Pesas Casa,55,False,3,55.96,167.88,2024,Friday,52.42
+2024-10-25,PROD_013,Decathlon Bandas Elásticas Set,Fitness,Bandas Elásticas,25,False,3,24.51,73.53,2024,Friday,22.66
+2024-10-25,PROD_014,Sveltus Kettlebell 12kg,Fitness,Pesa Rusa,40,False,3,39.5,118.5,2024,Friday,42.08
+2024-10-25,PROD_015,Salomon Speedcross 5 GTX,Outdoor,Zapatillas Trail,150,True,4,154.34,617.36,2024,Friday,148.78
+2024-10-25,PROD_016,Trek Marlin 7,Outdoor,Bicicleta Montaña,830,True,3,854.22,2562.66,2024,Friday,813.78
+2024-10-25,PROD_017,The North Face Borealis,Outdoor,Mochila Trekking,95,False,2,92.32,184.64,2024,Friday,89.96
+2024-10-25,PROD_018,Columbia Silver Ridge,Outdoor,Ropa Montaña,70,False,3,71.71,215.13,2024,Friday,67.04
+2024-10-25,PROD_019,Merrell Moab 2 GTX,Outdoor,Zapatillas Trail,110,False,2,112.72,225.44,2024,Friday,112.87
+2024-10-25,PROD_020,Quechua MH500,Outdoor,Ropa Montaña,80,False,2,79.65,159.3,2024,Friday,81.47
+2024-10-25,PROD_021,Manduka PRO Yoga Mat,Wellness,Esterilla Yoga,130,True,6,133.63,801.78,2024,Friday,138.75
+2024-10-25,PROD_022,Gaiam Premium Yoga Block,Wellness,Bloque Yoga,20,False,2,20.35,40.7,2024,Friday,20.2
+2024-10-25,PROD_023,Liforme Yoga Pad,Wellness,Rodillera Yoga,35,False,1,34.05,34.05,2024,Friday,37.51
+2024-10-25,PROD_024,Lotuscrafts Yoga Bolster,Wellness,Cojín Yoga,50,False,2,49.78,99.56,2024,Friday,49.71
+2024-10-26,PROD_001,Nike Air Zoom Pegasus 40,Running,Zapatillas Running,115,True,20,114.81,2296.2,2024,Saturday,92.37
+2024-10-26,PROD_002,Adidas Ultraboost 23,Running,Zapatillas Running,135,True,16,136.59,2185.44,2024,Saturday,125.59
+2024-10-26,PROD_003,Asics Gel Nimbus 25,Running,Zapatillas Running,85,False,4,87.43,349.72,2024,Saturday,88.15
+2024-10-26,PROD_004,New Balance Fresh Foam X 1080v12,Running,Zapatillas Running,75,False,4,74.52,298.08,2024,Saturday,79.82
+2024-10-26,PROD_005,Nike Dri-FIT Miler,Running,Ropa Running,35,False,3,34.2,102.6,2024,Saturday,36.17
+2024-10-26,PROD_006,Adidas Own The Run Jacket,Running,Ropa Running,65,False,3,65.66,196.98,2024,Saturday,61.51
+2024-10-26,PROD_007,Puma Velocity Nitro 2,Running,Zapatillas Running,70,False,3,70.63,211.89,2024,Saturday,74.49
+2024-10-26,PROD_008,Reebok Floatride Energy 5,Running,Zapatillas Running,65,False,3,65.5,196.5,2024,Saturday,67.08
+2024-10-26,PROD_009,Bowflex SelectTech 552,Fitness,Mancuernas Ajustables,400,True,3,409.31,1227.93,2024,Saturday,396.83
+2024-10-26,PROD_010,Domyos BM900,Fitness,Banco Gimnasio,175,True,2,179.44,358.88,2024,Saturday,196.38
+2024-10-26,PROD_011,Reebok Professional Deck,Fitness,Esterilla Fitness,45,False,4,45.14,180.56,2024,Saturday,43.82
+2024-10-26,PROD_012,Domyos Kit Mancuernas 20kg,Fitness,Pesas Casa,55,False,4,56.06,224.24,2024,Saturday,55.38
+2024-10-26,PROD_013,Decathlon Bandas Elásticas Set,Fitness,Bandas Elásticas,25,False,4,25.48,101.92,2024,Saturday,27.09
+2024-10-26,PROD_014,Sveltus Kettlebell 12kg,Fitness,Pesa Rusa,40,False,3,39.97,119.91,2024,Saturday,40.73
+2024-10-26,PROD_015,Salomon Speedcross 5 GTX,Outdoor,Zapatillas Trail,150,True,5,153.12,765.6,2024,Saturday,149.27
+2024-10-26,PROD_016,Trek Marlin 7,Outdoor,Bicicleta Montaña,830,True,4,835.22,3340.88,2024,Saturday,819.8
+2024-10-26,PROD_017,The North Face Borealis,Outdoor,Mochila Trekking,95,False,3,95.1,285.3,2024,Saturday,99.31
+2024-10-26,PROD_018,Columbia Silver Ridge,Outdoor,Ropa Montaña,70,False,2,67.93,135.86,2024,Saturday,71.49
+2024-10-26,PROD_019,Merrell Moab 2 GTX,Outdoor,Zapatillas Trail,110,False,3,109.46,328.38,2024,Saturday,101.17
+2024-10-26,PROD_020,Quechua MH500,Outdoor,Ropa Montaña,80,False,3,77.92,233.76,2024,Saturday,77.19
+2024-10-26,PROD_021,Manduka PRO Yoga Mat,Wellness,Esterilla Yoga,130,True,8,127.63,1021.04,2024,Saturday,140.17
+2024-10-26,PROD_022,Gaiam Premium Yoga Block,Wellness,Bloque Yoga,20,False,2,20.21,40.42,2024,Saturday,21.71
+2024-10-26,PROD_023,Liforme Yoga Pad,Wellness,Rodillera Yoga,35,False,2,34.61,69.22,2024,Saturday,32.24
+2024-10-26,PROD_024,Lotuscrafts Yoga Bolster,Wellness,Cojín Yoga,50,False,2,51.08,102.16,2024,Saturday,50.49
+2024-10-27,PROD_001,Nike Air Zoom Pegasus 40,Running,Zapatillas Running,115,True,13,113.46,1474.98,2024,Sunday,93.19
+2024-10-27,PROD_002,Adidas Ultraboost 23,Running,Zapatillas Running,135,True,14,132.79,1859.06,2024,Sunday,126.85
+2024-10-27,PROD_003,Asics Gel Nimbus 25,Running,Zapatillas Running,85,False,4,86.36,345.44,2024,Sunday,80.08
+2024-10-27,PROD_004,New Balance Fresh Foam X 1080v12,Running,Zapatillas Running,75,False,2,77.01,154.02,2024,Sunday,70.96
+2024-10-27,PROD_005,Nike Dri-FIT Miler,Running,Ropa Running,35,False,2,35.47,70.94,2024,Sunday,33.28
+2024-10-27,PROD_006,Adidas Own The Run Jacket,Running,Ropa Running,65,False,2,63.79,127.58,2024,Sunday,62.05
+2024-10-27,PROD_007,Puma Velocity Nitro 2,Running,Zapatillas Running,70,False,2,71.08,142.16,2024,Sunday,70.13
+2024-10-27,PROD_008,Reebok Floatride Energy 5,Running,Zapatillas Running,65,False,2,65.5,131.0,2024,Sunday,65.84
+2024-10-27,PROD_009,Bowflex SelectTech 552,Fitness,Mancuernas Ajustables,400,True,2,408.67,817.34,2024,Sunday,407.73
+2024-10-27,PROD_010,Domyos BM900,Fitness,Banco Gimnasio,175,True,2,171.14,342.28,2024,Sunday,188.9
+2024-10-27,PROD_011,Reebok Professional Deck,Fitness,Esterilla Fitness,45,False,4,43.96,175.84,2024,Sunday,48.38
+2024-10-27,PROD_012,Domyos Kit Mancuernas 20kg,Fitness,Pesas Casa,55,False,4,55.61,222.44,2024,Sunday,58.73
+2024-10-27,PROD_013,Decathlon Bandas Elásticas Set,Fitness,Bandas Elásticas,25,False,2,25.45,50.9,2024,Sunday,24.17
+2024-10-27,PROD_014,Sveltus Kettlebell 12kg,Fitness,Pesa Rusa,40,False,3,41.05,123.15,2024,Sunday,38.5
+2024-10-27,PROD_015,Salomon Speedcross 5 GTX,Outdoor,Zapatillas Trail,150,True,3,152.0,456.0,2024,Sunday,148.69
+2024-10-27,PROD_016,Trek Marlin 7,Outdoor,Bicicleta Montaña,830,True,3,809.74,2429.22,2024,Sunday,833.37
+2024-10-27,PROD_017,The North Face Borealis,Outdoor,Mochila Trekking,95,False,2,96.83,193.66,2024,Sunday,96.46
+2024-10-27,PROD_018,Columbia Silver Ridge,Outdoor,Ropa Montaña,70,False,2,70.58,141.16,2024,Sunday,74.9
+2024-10-27,PROD_019,Merrell Moab 2 GTX,Outdoor,Zapatillas Trail,110,False,2,111.61,223.22,2024,Sunday,115.76
+2024-10-27,PROD_020,Quechua MH500,Outdoor,Ropa Montaña,80,False,3,78.47,235.41,2024,Sunday,77.41
+2024-10-27,PROD_021,Manduka PRO Yoga Mat,Wellness,Esterilla Yoga,130,True,7,133.76,936.32,2024,Sunday,141.04
+2024-10-27,PROD_022,Gaiam Premium Yoga Block,Wellness,Bloque Yoga,20,False,2,20.24,40.48,2024,Sunday,20.59
+2024-10-27,PROD_023,Liforme Yoga Pad,Wellness,Rodillera Yoga,35,False,2,34.28,68.56,2024,Sunday,35.11
+2024-10-27,PROD_024,Lotuscrafts Yoga Bolster,Wellness,Cojín Yoga,50,False,2,50.61,101.22,2024,Sunday,47.39
+2024-10-28,PROD_001,Nike Air Zoom Pegasus 40,Running,Zapatillas Running,115,True,15,116.14,1742.1,2024,Monday,93.97
+2024-10-28,PROD_002,Adidas Ultraboost 23,Running,Zapatillas Running,135,True,9,133.24,1199.16,2024,Monday,124.43
+2024-10-28,PROD_003,Asics Gel Nimbus 25,Running,Zapatillas Running,85,False,2,84.73,169.46,2024,Monday,81.55
+2024-10-28,PROD_004,New Balance Fresh Foam X 1080v12,Running,Zapatillas Running,75,False,2,76.29,152.58,2024,Monday,75.45
+2024-10-28,PROD_005,Nike Dri-FIT Miler,Running,Ropa Running,35,False,2,34.81,69.62,2024,Monday,32.56
+2024-10-28,PROD_006,Adidas Own The Run Jacket,Running,Ropa Running,65,False,2,64.9,129.8,2024,Monday,67.53
+2024-10-28,PROD_007,Puma Velocity Nitro 2,Running,Zapatillas Running,70,False,3,71.1,213.3,2024,Monday,66.35
+2024-10-28,PROD_008,Reebok Floatride Energy 5,Running,Zapatillas Running,65,False,2,65.79,131.58,2024,Monday,60.26
+2024-10-28,PROD_009,Bowflex SelectTech 552,Fitness,Mancuernas Ajustables,400,True,2,397.34,794.68,2024,Monday,409.84
+2024-10-28,PROD_010,Domyos BM900,Fitness,Banco Gimnasio,175,True,2,175.86,351.72,2024,Monday,189.75
+2024-10-28,PROD_011,Reebok Professional Deck,Fitness,Esterilla Fitness,45,False,3,45.56,136.68,2024,Monday,44.75
+2024-10-28,PROD_012,Domyos Kit Mancuernas 20kg,Fitness,Pesas Casa,55,False,4,54.22,216.88,2024,Monday,54.9
+2024-10-28,PROD_013,Decathlon Bandas Elásticas Set,Fitness,Bandas Elásticas,25,False,3,24.49,73.47,2024,Monday,25.93
+2024-10-28,PROD_014,Sveltus Kettlebell 12kg,Fitness,Pesa Rusa,40,False,3,39.19,117.57,2024,Monday,37.2
+2024-10-28,PROD_015,Salomon Speedcross 5 GTX,Outdoor,Zapatillas Trail,150,True,4,151.72,606.88,2024,Monday,151.99
+2024-10-28,PROD_016,Trek Marlin 7,Outdoor,Bicicleta Montaña,830,True,3,847.94,2543.82,2024,Monday,826.04
+2024-10-28,PROD_017,The North Face Borealis,Outdoor,Mochila Trekking,95,False,2,93.03,186.06,2024,Monday,101.08
+2024-10-28,PROD_018,Columbia Silver Ridge,Outdoor,Ropa Montaña,70,False,2,68.28,136.56,2024,Monday,67.62
+2024-10-28,PROD_019,Merrell Moab 2 GTX,Outdoor,Zapatillas Trail,110,False,2,108.16,216.32,2024,Monday,115.27
+2024-10-28,PROD_020,Quechua MH500,Outdoor,Ropa Montaña,80,False,2,79.27,158.54,2024,Monday,82.89
+2024-10-28,PROD_021,Manduka PRO Yoga Mat,Wellness,Esterilla Yoga,130,True,7,126.49,885.43,2024,Monday,141.94
+2024-10-28,PROD_022,Gaiam Premium Yoga Block,Wellness,Bloque Yoga,20,False,2,20.55,41.1,2024,Monday,21.62
+2024-10-28,PROD_023,Liforme Yoga Pad,Wellness,Rodillera Yoga,35,False,2,35.82,71.64,2024,Monday,33.82
+2024-10-28,PROD_024,Lotuscrafts Yoga Bolster,Wellness,Cojín Yoga,50,False,1,49.74,49.74,2024,Monday,50.13
+2024-10-29,PROD_001,Nike Air Zoom Pegasus 40,Running,Zapatillas Running,115,True,14,112.46,1574.44,2024,Tuesday,94.33
+2024-10-29,PROD_002,Adidas Ultraboost 23,Running,Zapatillas Running,135,True,15,134.4,2016.0,2024,Tuesday,125.02
+2024-10-29,PROD_003,Asics Gel Nimbus 25,Running,Zapatillas Running,85,False,2,82.8,165.6,2024,Tuesday,77.0
+2024-10-29,PROD_004,New Balance Fresh Foam X 1080v12,Running,Zapatillas Running,75,False,3,73.89,221.67,2024,Tuesday,71.97
+2024-10-29,PROD_005,Nike Dri-FIT Miler,Running,Ropa Running,35,False,2,35.79,71.58,2024,Tuesday,36.21
+2024-10-29,PROD_006,Adidas Own The Run Jacket,Running,Ropa Running,65,False,2,66.15,132.3,2024,Tuesday,64.01
+2024-10-29,PROD_007,Puma Velocity Nitro 2,Running,Zapatillas Running,70,False,2,71.47,142.94,2024,Tuesday,67.83
+2024-10-29,PROD_008,Reebok Floatride Energy 5,Running,Zapatillas Running,65,False,2,63.7,127.4,2024,Tuesday,59.7
+2024-10-29,PROD_009,Bowflex SelectTech 552,Fitness,Mancuernas Ajustables,400,True,2,391.74,783.48,2024,Tuesday,406.91
+2024-10-29,PROD_010,Domyos BM900,Fitness,Banco Gimnasio,175,True,2,175.99,351.98,2024,Tuesday,192.37
+2024-10-29,PROD_011,Reebok Professional Deck,Fitness,Esterilla Fitness,45,False,4,45.74,182.96,2024,Tuesday,41.65
+2024-10-29,PROD_012,Domyos Kit Mancuernas 20kg,Fitness,Pesas Casa,55,False,4,54.23,216.92,2024,Tuesday,56.66
+2024-10-29,PROD_013,Decathlon Bandas Elásticas Set,Fitness,Bandas Elásticas,25,False,3,24.37,73.11,2024,Tuesday,23.51
+2024-10-29,PROD_014,Sveltus Kettlebell 12kg,Fitness,Pesa Rusa,40,False,3,40.0,120.0,2024,Tuesday,41.78
+2024-10-29,PROD_015,Salomon Speedcross 5 GTX,Outdoor,Zapatillas Trail,150,True,3,152.89,458.67,2024,Tuesday,152.1
+2024-10-29,PROD_016,Trek Marlin 7,Outdoor,Bicicleta Montaña,830,True,4,828.72,3314.88,2024,Tuesday,806.63
+2024-10-29,PROD_017,The North Face Borealis,Outdoor,Mochila Trekking,95,False,2,93.38,186.76,2024,Tuesday,92.92
+2024-10-29,PROD_018,Columbia Silver Ridge,Outdoor,Ropa Montaña,70,False,2,68.68,137.36,2024,Tuesday,75.08
+2024-10-29,PROD_019,Merrell Moab 2 GTX,Outdoor,Zapatillas Trail,110,False,2,112.53,225.06,2024,Tuesday,109.93
+2024-10-29,PROD_020,Quechua MH500,Outdoor,Ropa Montaña,80,False,2,82.38,164.76,2024,Tuesday,73.11
+2024-10-29,PROD_021,Manduka PRO Yoga Mat,Wellness,Esterilla Yoga,130,True,7,130.59,914.13,2024,Tuesday,138.28
+2024-10-29,PROD_022,Gaiam Premium Yoga Block,Wellness,Bloque Yoga,20,False,2,20.03,40.06,2024,Tuesday,19.73
+2024-10-29,PROD_023,Liforme Yoga Pad,Wellness,Rodillera Yoga,35,False,2,34.42,68.84,2024,Tuesday,36.75
+2024-10-29,PROD_024,Lotuscrafts Yoga Bolster,Wellness,Cojín Yoga,50,False,1,51.12,51.12,2024,Tuesday,47.78
+2024-10-30,PROD_001,Nike Air Zoom Pegasus 40,Running,Zapatillas Running,115,True,14,113.44,1588.16,2024,Wednesday,90.74
+2024-10-30,PROD_002,Adidas Ultraboost 23,Running,Zapatillas Running,135,True,11,135.78,1493.58,2024,Wednesday,127.18
+2024-10-30,PROD_003,Asics Gel Nimbus 25,Running,Zapatillas Running,85,False,3,83.87,251.61,2024,Wednesday,81.02
+2024-10-30,PROD_004,New Balance Fresh Foam X 1080v12,Running,Zapatillas Running,75,False,2,75.8,151.6,2024,Wednesday,70.58
+2024-10-30,PROD_005,Nike Dri-FIT Miler,Running,Ropa Running,35,False,2,34.5,69.0,2024,Wednesday,37.4
+2024-10-30,PROD_006,Adidas Own The Run Jacket,Running,Ropa Running,65,False,2,66.14,132.28,2024,Wednesday,68.69
+2024-10-30,PROD_007,Puma Velocity Nitro 2,Running,Zapatillas Running,70,False,3,71.56,214.68,2024,Wednesday,68.61
+2024-10-30,PROD_008,Reebok Floatride Energy 5,Running,Zapatillas Running,65,False,2,64.08,128.16,2024,Wednesday,67.15
+2024-10-30,PROD_009,Bowflex SelectTech 552,Fitness,Mancuernas Ajustables,400,True,2,405.79,811.58,2024,Wednesday,401.17
+2024-10-30,PROD_010,Domyos BM900,Fitness,Banco Gimnasio,175,True,2,179.73,359.46,2024,Wednesday,191.5
+2024-10-30,PROD_011,Reebok Professional Deck,Fitness,Esterilla Fitness,45,False,3,45.03,135.09,2024,Wednesday,44.03
+2024-10-30,PROD_012,Domyos Kit Mancuernas 20kg,Fitness,Pesas Casa,55,False,4,56.43,225.72,2024,Wednesday,58.73
+2024-10-30,PROD_013,Decathlon Bandas Elásticas Set,Fitness,Bandas Elásticas,25,False,3,24.46,73.38,2024,Wednesday,23.34
+2024-10-30,PROD_014,Sveltus Kettlebell 12kg,Fitness,Pesa Rusa,40,False,3,39.27,117.81,2024,Wednesday,40.39
+2024-10-30,PROD_015,Salomon Speedcross 5 GTX,Outdoor,Zapatillas Trail,150,True,4,148.03,592.12,2024,Wednesday,152.56
+2024-10-30,PROD_016,Trek Marlin 7,Outdoor,Bicicleta Montaña,830,True,3,828.34,2485.02,2024,Wednesday,806.84
+2024-10-30,PROD_017,The North Face Borealis,Outdoor,Mochila Trekking,95,False,2,95.35,190.7,2024,Wednesday,100.41
+2024-10-30,PROD_018,Columbia Silver Ridge,Outdoor,Ropa Montaña,70,False,2,68.11,136.22,2024,Wednesday,70.0
+2024-10-30,PROD_019,Merrell Moab 2 GTX,Outdoor,Zapatillas Trail,110,False,2,107.86,215.72,2024,Wednesday,111.74
+2024-10-30,PROD_020,Quechua MH500,Outdoor,Ropa Montaña,80,False,2,78.77,157.54,2024,Wednesday,78.82
+2024-10-30,PROD_021,Manduka PRO Yoga Mat,Wellness,Esterilla Yoga,130,True,7,129.16,904.12,2024,Wednesday,142.39
+2024-10-30,PROD_022,Gaiam Premium Yoga Block,Wellness,Bloque Yoga,20,False,1,20.47,20.47,2024,Wednesday,21.03
+2024-10-30,PROD_023,Liforme Yoga Pad,Wellness,Rodillera Yoga,35,False,1,36.01,36.01,2024,Wednesday,35.9
+2024-10-30,PROD_024,Lotuscrafts Yoga Bolster,Wellness,Cojín Yoga,50,False,2,50.55,101.1,2024,Wednesday,54.84
+2024-10-31,PROD_001,Nike Air Zoom Pegasus 40,Running,Zapatillas Running,115,True,16,116.16,1858.56,2024,Thursday,91.9
+2024-10-31,PROD_002,Adidas Ultraboost 23,Running,Zapatillas Running,135,True,14,134.93,1889.02,2024,Thursday,127.39
+2024-10-31,PROD_003,Asics Gel Nimbus 25,Running,Zapatillas Running,85,False,3,87.53,262.59,2024,Thursday,93.1
+2024-10-31,PROD_004,New Balance Fresh Foam X 1080v12,Running,Zapatillas Running,75,False,2,74.54,149.08,2024,Thursday,74.27
+2024-10-31,PROD_005,Nike Dri-FIT Miler,Running,Ropa Running,35,False,2,35.57,71.14,2024,Thursday,37.31
+2024-10-31,PROD_006,Adidas Own The Run Jacket,Running,Ropa Running,65,False,2,65.77,131.54,2024,Thursday,66.34
+2024-10-31,PROD_007,Puma Velocity Nitro 2,Running,Zapatillas Running,70,False,2,70.43,140.86,2024,Thursday,69.9
+2024-10-31,PROD_008,Reebok Floatride Energy 5,Running,Zapatillas Running,65,False,3,65.98,197.94,2024,Thursday,64.92
+2024-10-31,PROD_009,Bowflex SelectTech 552,Fitness,Mancuernas Ajustables,400,True,2,403.51,807.02,2024,Thursday,413.63
+2024-10-31,PROD_010,Domyos BM900,Fitness,Banco Gimnasio,175,True,2,171.22,342.44,2024,Thursday,192.05
+2024-10-31,PROD_011,Reebok Professional Deck,Fitness,Esterilla Fitness,45,False,3,45.32,135.96,2024,Thursday,43.59
+2024-10-31,PROD_012,Domyos Kit Mancuernas 20kg,Fitness,Pesas Casa,55,False,3,54.71,164.13,2024,Thursday,56.06
+2024-10-31,PROD_013,Decathlon Bandas Elásticas Set,Fitness,Bandas Elásticas,25,False,3,25.53,76.59,2024,Thursday,24.13
+2024-10-31,PROD_014,Sveltus Kettlebell 12kg,Fitness,Pesa Rusa,40,False,2,39.26,78.52,2024,Thursday,37.9
+2024-10-31,PROD_015,Salomon Speedcross 5 GTX,Outdoor,Zapatillas Trail,150,True,4,154.04,616.16,2024,Thursday,147.93
+2024-10-31,PROD_016,Trek Marlin 7,Outdoor,Bicicleta Montaña,830,True,4,837.3,3349.2,2024,Thursday,836.73
+2024-10-31,PROD_017,The North Face Borealis,Outdoor,Mochila Trekking,95,False,2,93.88,187.76,2024,Thursday,98.47
+2024-10-31,PROD_018,Columbia Silver Ridge,Outdoor,Ropa Montaña,70,False,2,70.04,140.08,2024,Thursday,68.2
+2024-10-31,PROD_019,Merrell Moab 2 GTX,Outdoor,Zapatillas Trail,110,False,2,110.19,220.38,2024,Thursday,115.98
+2024-10-31,PROD_020,Quechua MH500,Outdoor,Ropa Montaña,80,False,2,77.78,155.56,2024,Thursday,80.05
+2024-10-31,PROD_021,Manduka PRO Yoga Mat,Wellness,Esterilla Yoga,130,True,5,131.09,655.45,2024,Thursday,136.95
+2024-10-31,PROD_022,Gaiam Premium Yoga Block,Wellness,Bloque Yoga,20,False,1,20.13,20.13,2024,Thursday,20.97
+2024-10-31,PROD_023,Liforme Yoga Pad,Wellness,Rodillera Yoga,35,False,1,35.7,35.7,2024,Thursday,32.18
+2024-10-31,PROD_024,Lotuscrafts Yoga Bolster,Wellness,Cojín Yoga,50,False,1,49.42,49.42,2024,Thursday,48.04
+2024-11-01,PROD_001,Nike Air Zoom Pegasus 40,Running,Zapatillas Running,115,True,15,118.32,1774.8,2024,Friday,90.71
+2024-11-01,PROD_002,Adidas Ultraboost 23,Running,Zapatillas Running,135,True,19,132.9,2525.1,2024,Friday,127.14
+2024-11-01,PROD_003,Asics Gel Nimbus 25,Running,Zapatillas Running,85,False,3,83.37,250.11,2024,Friday,90.77
+2024-11-01,PROD_004,New Balance Fresh Foam X 1080v12,Running,Zapatillas Running,75,False,4,72.97,291.88,2024,Friday,80.63
+2024-11-01,PROD_005,Nike Dri-FIT Miler,Running,Ropa Running,35,False,3,34.56,103.68,2024,Friday,34.13
+2024-11-01,PROD_006,Adidas Own The Run Jacket,Running,Ropa Running,65,False,3,65.56,196.68,2024,Friday,64.19
+2024-11-01,PROD_007,Puma Velocity Nitro 2,Running,Zapatillas Running,70,False,3,68.26,204.78,2024,Friday,70.32
+2024-11-01,PROD_008,Reebok Floatride Energy 5,Running,Zapatillas Running,65,False,3,64.98,194.94,2024,Friday,65.35
+2024-11-01,PROD_009,Bowflex SelectTech 552,Fitness,Mancuernas Ajustables,400,True,3,410.42,1231.26,2024,Friday,399.51
+2024-11-01,PROD_010,Domyos BM900,Fitness,Banco Gimnasio,175,True,3,178.06,534.18,2024,Friday,193.15
+2024-11-01,PROD_011,Reebok Professional Deck,Fitness,Esterilla Fitness,45,False,4,43.82,175.28,2024,Friday,47.17
+2024-11-01,PROD_012,Domyos Kit Mancuernas 20kg,Fitness,Pesas Casa,55,False,5,54.05,270.25,2024,Friday,53.11
+2024-11-01,PROD_013,Decathlon Bandas Elásticas Set,Fitness,Bandas Elásticas,25,False,4,25.05,100.2,2024,Friday,26.36
+2024-11-01,PROD_014,Sveltus Kettlebell 12kg,Fitness,Pesa Rusa,40,False,5,39.78,198.9,2024,Friday,39.81
+2024-11-01,PROD_015,Salomon Speedcross 5 GTX,Outdoor,Zapatillas Trail,150,True,5,146.07,730.35,2024,Friday,148.87
+2024-11-01,PROD_016,Trek Marlin 7,Outdoor,Bicicleta Montaña,830,True,4,845.85,3383.4,2024,Friday,810.81
+2024-11-01,PROD_017,The North Face Borealis,Outdoor,Mochila Trekking,95,False,2,93.89,187.78,2024,Friday,94.81
+2024-11-01,PROD_018,Columbia Silver Ridge,Outdoor,Ropa Montaña,70,False,2,69.35,138.7,2024,Friday,65.03
+2024-11-01,PROD_019,Merrell Moab 2 GTX,Outdoor,Zapatillas Trail,110,False,3,111.02,333.06,2024,Friday,117.15
+2024-11-01,PROD_020,Quechua MH500,Outdoor,Ropa Montaña,80,False,2,79.78,159.56,2024,Friday,88.05
+2024-11-01,PROD_021,Manduka PRO Yoga Mat,Wellness,Esterilla Yoga,130,True,6,132.16,792.96,2024,Friday,140.25
+2024-11-01,PROD_022,Gaiam Premium Yoga Block,Wellness,Bloque Yoga,20,False,2,20.17,40.34,2024,Friday,20.77
+2024-11-01,PROD_023,Liforme Yoga Pad,Wellness,Rodillera Yoga,35,False,1,35.23,35.23,2024,Friday,33.86
+2024-11-01,PROD_024,Lotuscrafts Yoga Bolster,Wellness,Cojín Yoga,50,False,1,49.42,49.42,2024,Friday,46.15
+2024-11-02,PROD_001,Nike Air Zoom Pegasus 40,Running,Zapatillas Running,115,True,21,113.69,2387.49,2024,Saturday,91.64
+2024-11-02,PROD_002,Adidas Ultraboost 23,Running,Zapatillas Running,135,True,16,138.51,2216.16,2024,Saturday,125.19
+2024-11-02,PROD_003,Asics Gel Nimbus 25,Running,Zapatillas Running,85,False,4,85.76,343.04,2024,Saturday,86.84
+2024-11-02,PROD_004,New Balance Fresh Foam X 1080v12,Running,Zapatillas Running,75,False,4,75.59,302.36,2024,Saturday,72.21
+2024-11-02,PROD_005,Nike Dri-FIT Miler,Running,Ropa Running,35,False,3,33.99,101.97,2024,Saturday,31.94
+2024-11-02,PROD_006,Adidas Own The Run Jacket,Running,Ropa Running,65,False,3,65.61,196.83,2024,Saturday,62.24
+2024-11-02,PROD_007,Puma Velocity Nitro 2,Running,Zapatillas Running,70,False,3,69.6,208.8,2024,Saturday,73.63
+2024-11-02,PROD_008,Reebok Floatride Energy 5,Running,Zapatillas Running,65,False,3,63.51,190.53,2024,Saturday,59.29
+2024-11-02,PROD_009,Bowflex SelectTech 552,Fitness,Mancuernas Ajustables,400,True,3,393.94,1181.82,2024,Saturday,401.61
+2024-11-02,PROD_010,Domyos BM900,Fitness,Banco Gimnasio,175,True,3,170.61,511.83,2024,Saturday,195.09
+2024-11-02,PROD_011,Reebok Professional Deck,Fitness,Esterilla Fitness,45,False,5,44.53,222.65,2024,Saturday,45.31
+2024-11-02,PROD_012,Domyos Kit Mancuernas 20kg,Fitness,Pesas Casa,55,False,6,56.53,339.18,2024,Saturday,51.78
+2024-11-02,PROD_013,Decathlon Bandas Elásticas Set,Fitness,Bandas Elásticas,25,False,5,24.9,124.5,2024,Saturday,27.19
+2024-11-02,PROD_014,Sveltus Kettlebell 12kg,Fitness,Pesa Rusa,40,False,4,39.79,159.16,2024,Saturday,39.93
+2024-11-02,PROD_015,Salomon Speedcross 5 GTX,Outdoor,Zapatillas Trail,150,True,6,151.06,906.36,2024,Saturday,149.67
+2024-11-02,PROD_016,Trek Marlin 7,Outdoor,Bicicleta Montaña,830,True,5,829.91,4149.55,2024,Saturday,803.73
+2024-11-02,PROD_017,The North Face Borealis,Outdoor,Mochila Trekking,95,False,3,96.57,289.71,2024,Saturday,89.12
+2024-11-02,PROD_018,Columbia Silver Ridge,Outdoor,Ropa Montaña,70,False,3,68.17,204.51,2024,Saturday,74.36
+2024-11-02,PROD_019,Merrell Moab 2 GTX,Outdoor,Zapatillas Trail,110,False,2,113.17,226.34,2024,Saturday,104.76
+2024-11-02,PROD_020,Quechua MH500,Outdoor,Ropa Montaña,80,False,2,82.31,164.62,2024,Saturday,80.7
+2024-11-02,PROD_021,Manduka PRO Yoga Mat,Wellness,Esterilla Yoga,130,True,7,132.9,930.3,2024,Saturday,140.21
+2024-11-02,PROD_022,Gaiam Premium Yoga Block,Wellness,Bloque Yoga,20,False,2,20.27,40.54,2024,Saturday,21.04
+2024-11-02,PROD_023,Liforme Yoga Pad,Wellness,Rodillera Yoga,35,False,2,34.65,69.3,2024,Saturday,35.83
+2024-11-02,PROD_024,Lotuscrafts Yoga Bolster,Wellness,Cojín Yoga,50,False,2,50.64,101.28,2024,Saturday,52.16
+2024-11-03,PROD_001,Nike Air Zoom Pegasus 40,Running,Zapatillas Running,115,True,16,116.76,1868.16,2024,Sunday,93.11
+2024-11-03,PROD_002,Adidas Ultraboost 23,Running,Zapatillas Running,135,True,18,137.05,2466.9,2024,Sunday,126.07
+2024-11-03,PROD_003,Asics Gel Nimbus 25,Running,Zapatillas Running,85,False,3,86.51,259.53,2024,Sunday,83.63
+2024-11-03,PROD_004,New Balance Fresh Foam X 1080v12,Running,Zapatillas Running,75,False,3,76.77,230.31,2024,Sunday,79.83
+2024-11-03,PROD_005,Nike Dri-FIT Miler,Running,Ropa Running,35,False,3,34.15,102.45,2024,Sunday,37.57
+2024-11-03,PROD_006,Adidas Own The Run Jacket,Running,Ropa Running,65,False,2,66.25,132.5,2024,Sunday,62.42
+2024-11-03,PROD_007,Puma Velocity Nitro 2,Running,Zapatillas Running,70,False,2,68.4,136.8,2024,Sunday,72.17
+2024-11-03,PROD_008,Reebok Floatride Energy 5,Running,Zapatillas Running,65,False,3,63.29,189.87,2024,Sunday,61.51
+2024-11-03,PROD_009,Bowflex SelectTech 552,Fitness,Mancuernas Ajustables,400,True,3,411.06,1233.18,2024,Sunday,414.26
+2024-11-03,PROD_010,Domyos BM900,Fitness,Banco Gimnasio,175,True,3,179.47,538.41,2024,Sunday,195.49
+2024-11-03,PROD_011,Reebok Professional Deck,Fitness,Esterilla Fitness,45,False,3,44.24,132.72,2024,Sunday,42.27
+2024-11-03,PROD_012,Domyos Kit Mancuernas 20kg,Fitness,Pesas Casa,55,False,4,54.2,216.8,2024,Sunday,52.67
+2024-11-03,PROD_013,Decathlon Bandas Elásticas Set,Fitness,Bandas Elásticas,25,False,4,25.23,100.92,2024,Sunday,25.16
+2024-11-03,PROD_014,Sveltus Kettlebell 12kg,Fitness,Pesa Rusa,40,False,3,40.35,121.05,2024,Sunday,41.31
+2024-11-03,PROD_015,Salomon Speedcross 5 GTX,Outdoor,Zapatillas Trail,150,True,5,146.67,733.35,2024,Sunday,147.43
+2024-11-03,PROD_016,Trek Marlin 7,Outdoor,Bicicleta Montaña,830,True,5,847.73,4238.65,2024,Sunday,816.26
+2024-11-03,PROD_017,The North Face Borealis,Outdoor,Mochila Trekking,95,False,4,92.23,368.92,2024,Sunday,90.85
+2024-11-03,PROD_018,Columbia Silver Ridge,Outdoor,Ropa Montaña,70,False,2,68.38,136.76,2024,Sunday,66.77
+2024-11-03,PROD_019,Merrell Moab 2 GTX,Outdoor,Zapatillas Trail,110,False,3,107.18,321.54,2024,Sunday,109.05
+2024-11-03,PROD_020,Quechua MH500,Outdoor,Ropa Montaña,80,False,3,82.36,247.08,2024,Sunday,80.55
+2024-11-03,PROD_021,Manduka PRO Yoga Mat,Wellness,Esterilla Yoga,130,True,8,127.89,1023.12,2024,Sunday,137.35
+2024-11-03,PROD_022,Gaiam Premium Yoga Block,Wellness,Bloque Yoga,20,False,2,20.45,40.9,2024,Sunday,21.38
+2024-11-03,PROD_023,Liforme Yoga Pad,Wellness,Rodillera Yoga,35,False,2,34.59,69.18,2024,Sunday,37.28
+2024-11-03,PROD_024,Lotuscrafts Yoga Bolster,Wellness,Cojín Yoga,50,False,1,50.5,50.5,2024,Sunday,46.62
+2024-11-04,PROD_001,Nike Air Zoom Pegasus 40,Running,Zapatillas Running,115,True,14,115.15,1612.1,2024,Monday,92.75
+2024-11-04,PROD_002,Adidas Ultraboost 23,Running,Zapatillas Running,135,True,16,134.12,2145.92,2024,Monday,127.53
+2024-11-04,PROD_003,Asics Gel Nimbus 25,Running,Zapatillas Running,85,False,3,84.03,252.09,2024,Monday,87.36
+2024-11-04,PROD_004,New Balance Fresh Foam X 1080v12,Running,Zapatillas Running,75,False,3,74.68,224.04,2024,Monday,76.75
+2024-11-04,PROD_005,Nike Dri-FIT Miler,Running,Ropa Running,35,False,3,35.27,105.81,2024,Monday,35.42
+2024-11-04,PROD_006,Adidas Own The Run Jacket,Running,Ropa Running,65,False,2,63.43,126.86,2024,Monday,65.94
+2024-11-04,PROD_007,Puma Velocity Nitro 2,Running,Zapatillas Running,70,False,2,70.9,141.8,2024,Monday,74.63
+2024-11-04,PROD_008,Reebok Floatride Energy 5,Running,Zapatillas Running,65,False,3,64.5,193.5,2024,Monday,60.5
+2024-11-04,PROD_009,Bowflex SelectTech 552,Fitness,Mancuernas Ajustables,400,True,3,390.16,1170.48,2024,Monday,403.19
+2024-11-04,PROD_010,Domyos BM900,Fitness,Banco Gimnasio,175,True,3,174.85,524.55,2024,Monday,193.46
+2024-11-04,PROD_011,Reebok Professional Deck,Fitness,Esterilla Fitness,45,False,4,44.93,179.72,2024,Monday,43.46
+2024-11-04,PROD_012,Domyos Kit Mancuernas 20kg,Fitness,Pesas Casa,55,False,5,54.52,272.6,2024,Monday,57.21
+2024-11-04,PROD_013,Decathlon Bandas Elásticas Set,Fitness,Bandas Elásticas,25,False,4,24.46,97.84,2024,Monday,26.07
+2024-11-04,PROD_014,Sveltus Kettlebell 12kg,Fitness,Pesa Rusa,40,False,4,41.02,164.08,2024,Monday,39.39
+2024-11-04,PROD_015,Salomon Speedcross 5 GTX,Outdoor,Zapatillas Trail,150,True,4,145.53,582.12,2024,Monday,151.18
+2024-11-04,PROD_016,Trek Marlin 7,Outdoor,Bicicleta Montaña,830,True,4,826.56,3306.24,2024,Monday,813.0
+2024-11-04,PROD_017,The North Face Borealis,Outdoor,Mochila Trekking,95,False,2,94.53,189.06,2024,Monday,89.39
+2024-11-04,PROD_018,Columbia Silver Ridge,Outdoor,Ropa Montaña,70,False,2,69.49,138.98,2024,Monday,71.28
+2024-11-04,PROD_019,Merrell Moab 2 GTX,Outdoor,Zapatillas Trail,110,False,3,106.8,320.4,2024,Monday,112.5
+2024-11-04,PROD_020,Quechua MH500,Outdoor,Ropa Montaña,80,False,2,79.14,158.28,2024,Monday,81.02
+2024-11-04,PROD_021,Manduka PRO Yoga Mat,Wellness,Esterilla Yoga,130,True,8,126.84,1014.72,2024,Monday,143.13
+2024-11-04,PROD_022,Gaiam Premium Yoga Block,Wellness,Bloque Yoga,20,False,2,19.7,39.4,2024,Monday,18.9
+2024-11-04,PROD_023,Liforme Yoga Pad,Wellness,Rodillera Yoga,35,False,1,35.72,35.72,2024,Monday,36.1
+2024-11-04,PROD_024,Lotuscrafts Yoga Bolster,Wellness,Cojín Yoga,50,False,2,51.1,102.2,2024,Monday,46.19
+2024-11-05,PROD_001,Nike Air Zoom Pegasus 40,Running,Zapatillas Running,115,True,15,115.84,1737.6,2024,Tuesday,92.6
+2024-11-05,PROD_002,Adidas Ultraboost 23,Running,Zapatillas Running,135,True,18,133.18,2397.24,2024,Tuesday,123.94
+2024-11-05,PROD_003,Asics Gel Nimbus 25,Running,Zapatillas Running,85,False,3,84.0,252.0,2024,Tuesday,84.36
+2024-11-05,PROD_004,New Balance Fresh Foam X 1080v12,Running,Zapatillas Running,75,False,3,74.0,222.0,2024,Tuesday,70.84
+2024-11-05,PROD_005,Nike Dri-FIT Miler,Running,Ropa Running,35,False,3,34.07,102.21,2024,Tuesday,31.54
+2024-11-05,PROD_006,Adidas Own The Run Jacket,Running,Ropa Running,65,False,2,65.69,131.38,2024,Tuesday,65.84
+2024-11-05,PROD_007,Puma Velocity Nitro 2,Running,Zapatillas Running,70,False,3,68.67,206.01,2024,Tuesday,65.86
+2024-11-05,PROD_008,Reebok Floatride Energy 5,Running,Zapatillas Running,65,False,3,66.3,198.9,2024,Tuesday,67.46
+2024-11-05,PROD_009,Bowflex SelectTech 552,Fitness,Mancuernas Ajustables,400,True,3,402.62,1207.86,2024,Tuesday,414.67
+2024-11-05,PROD_010,Domyos BM900,Fitness,Banco Gimnasio,175,True,3,170.02,510.06,2024,Tuesday,193.5
+2024-11-05,PROD_011,Reebok Professional Deck,Fitness,Esterilla Fitness,45,False,4,44.68,178.72,2024,Tuesday,42.72
+2024-11-05,PROD_012,Domyos Kit Mancuernas 20kg,Fitness,Pesas Casa,55,False,5,54.73,273.65,2024,Tuesday,50.31
+2024-11-05,PROD_013,Decathlon Bandas Elásticas Set,Fitness,Bandas Elásticas,25,False,4,25.26,101.04,2024,Tuesday,26.38
+2024-11-05,PROD_014,Sveltus Kettlebell 12kg,Fitness,Pesa Rusa,40,False,3,39.79,119.37,2024,Tuesday,40.71
+2024-11-05,PROD_015,Salomon Speedcross 5 GTX,Outdoor,Zapatillas Trail,150,True,5,151.18,755.9,2024,Tuesday,146.82
+2024-11-05,PROD_016,Trek Marlin 7,Outdoor,Bicicleta Montaña,830,True,4,833.01,3332.04,2024,Tuesday,818.5
+2024-11-05,PROD_017,The North Face Borealis,Outdoor,Mochila Trekking,95,False,2,94.67,189.34,2024,Tuesday,93.32
+2024-11-05,PROD_018,Columbia Silver Ridge,Outdoor,Ropa Montaña,70,False,2,70.9,141.8,2024,Tuesday,70.29
+2024-11-05,PROD_019,Merrell Moab 2 GTX,Outdoor,Zapatillas Trail,110,False,2,106.78,213.56,2024,Tuesday,106.74
+2024-11-05,PROD_020,Quechua MH500,Outdoor,Ropa Montaña,80,False,2,78.07,156.14,2024,Tuesday,80.23
+2024-11-05,PROD_021,Manduka PRO Yoga Mat,Wellness,Esterilla Yoga,130,True,6,133.75,802.5,2024,Tuesday,141.55
+2024-11-05,PROD_022,Gaiam Premium Yoga Block,Wellness,Bloque Yoga,20,False,1,19.65,19.65,2024,Tuesday,20.63
+2024-11-05,PROD_023,Liforme Yoga Pad,Wellness,Rodillera Yoga,35,False,2,35.34,70.68,2024,Tuesday,32.66
+2024-11-05,PROD_024,Lotuscrafts Yoga Bolster,Wellness,Cojín Yoga,50,False,1,49.43,49.43,2024,Tuesday,51.35
+2024-11-06,PROD_001,Nike Air Zoom Pegasus 40,Running,Zapatillas Running,115,True,19,115.17,2188.23,2024,Wednesday,93.07
+2024-11-06,PROD_002,Adidas Ultraboost 23,Running,Zapatillas Running,135,True,17,136.75,2324.75,2024,Wednesday,125.96
+2024-11-06,PROD_003,Asics Gel Nimbus 25,Running,Zapatillas Running,85,False,3,86.38,259.14,2024,Wednesday,78.36
+2024-11-06,PROD_004,New Balance Fresh Foam X 1080v12,Running,Zapatillas Running,75,False,4,74.67,298.68,2024,Wednesday,74.41
+2024-11-06,PROD_005,Nike Dri-FIT Miler,Running,Ropa Running,35,False,3,34.91,104.73,2024,Wednesday,33.93
+2024-11-06,PROD_006,Adidas Own The Run Jacket,Running,Ropa Running,65,False,2,64.31,128.62,2024,Wednesday,67.21
+2024-11-06,PROD_007,Puma Velocity Nitro 2,Running,Zapatillas Running,70,False,3,70.57,211.71,2024,Wednesday,68.97
+2024-11-06,PROD_008,Reebok Floatride Energy 5,Running,Zapatillas Running,65,False,2,66.1,132.2,2024,Wednesday,70.98
+2024-11-06,PROD_009,Bowflex SelectTech 552,Fitness,Mancuernas Ajustables,400,True,2,401.88,803.76,2024,Wednesday,407.01
+2024-11-06,PROD_010,Domyos BM900,Fitness,Banco Gimnasio,175,True,3,180.17,540.51,2024,Wednesday,191.71
+2024-11-06,PROD_011,Reebok Professional Deck,Fitness,Esterilla Fitness,45,False,4,45.2,180.8,2024,Wednesday,48.03
+2024-11-06,PROD_012,Domyos Kit Mancuernas 20kg,Fitness,Pesas Casa,55,False,5,54.08,270.4,2024,Wednesday,53.67
+2024-11-06,PROD_013,Decathlon Bandas Elásticas Set,Fitness,Bandas Elásticas,25,False,4,24.98,99.92,2024,Wednesday,27.05
+2024-11-06,PROD_014,Sveltus Kettlebell 12kg,Fitness,Pesa Rusa,40,False,3,38.87,116.61,2024,Wednesday,42.78
+2024-11-06,PROD_015,Salomon Speedcross 5 GTX,Outdoor,Zapatillas Trail,150,True,4,148.94,595.76,2024,Wednesday,152.76
+2024-11-06,PROD_016,Trek Marlin 7,Outdoor,Bicicleta Montaña,830,True,4,809.05,3236.2,2024,Wednesday,822.58
+2024-11-06,PROD_017,The North Face Borealis,Outdoor,Mochila Trekking,95,False,3,96.54,289.62,2024,Wednesday,90.78
+2024-11-06,PROD_018,Columbia Silver Ridge,Outdoor,Ropa Montaña,70,False,2,71.41,142.82,2024,Wednesday,75.02
+2024-11-06,PROD_019,Merrell Moab 2 GTX,Outdoor,Zapatillas Trail,110,False,3,108.11,324.33,2024,Wednesday,113.56
+2024-11-06,PROD_020,Quechua MH500,Outdoor,Ropa Montaña,80,False,2,80.0,160.0,2024,Wednesday,74.87
+2024-11-06,PROD_021,Manduka PRO Yoga Mat,Wellness,Esterilla Yoga,130,True,9,132.77,1194.93,2024,Wednesday,137.65
+2024-11-06,PROD_022,Gaiam Premium Yoga Block,Wellness,Bloque Yoga,20,False,2,20.34,40.68,2024,Wednesday,18.18
+2024-11-06,PROD_023,Liforme Yoga Pad,Wellness,Rodillera Yoga,35,False,1,34.21,34.21,2024,Wednesday,36.59
+2024-11-06,PROD_024,Lotuscrafts Yoga Bolster,Wellness,Cojín Yoga,50,False,1,49.28,49.28,2024,Wednesday,51.49
+2024-11-07,PROD_001,Nike Air Zoom Pegasus 40,Running,Zapatillas Running,115,True,17,113.02,1921.34,2024,Thursday,92.98
+2024-11-07,PROD_002,Adidas Ultraboost 23,Running,Zapatillas Running,135,True,15,132.03,1980.45,2024,Thursday,127.04
+2024-11-07,PROD_003,Asics Gel Nimbus 25,Running,Zapatillas Running,85,False,3,86.37,259.11,2024,Thursday,83.16
+2024-11-07,PROD_004,New Balance Fresh Foam X 1080v12,Running,Zapatillas Running,75,False,3,76.88,230.64,2024,Thursday,68.45
+2024-11-07,PROD_005,Nike Dri-FIT Miler,Running,Ropa Running,35,False,3,33.97,101.91,2024,Thursday,34.62
+2024-11-07,PROD_006,Adidas Own The Run Jacket,Running,Ropa Running,65,False,2,64.15,128.3,2024,Thursday,63.16
+2024-11-07,PROD_007,Puma Velocity Nitro 2,Running,Zapatillas Running,70,False,2,69.43,138.86,2024,Thursday,68.97
+2024-11-07,PROD_008,Reebok Floatride Energy 5,Running,Zapatillas Running,65,False,2,64.61,129.22,2024,Thursday,65.92
+2024-11-07,PROD_009,Bowflex SelectTech 552,Fitness,Mancuernas Ajustables,400,True,2,403.0,806.0,2024,Thursday,406.59
+2024-11-07,PROD_010,Domyos BM900,Fitness,Banco Gimnasio,175,True,3,175.49,526.47,2024,Thursday,189.63
+2024-11-07,PROD_011,Reebok Professional Deck,Fitness,Esterilla Fitness,45,False,3,44.65,133.95,2024,Thursday,49.17
+2024-11-07,PROD_012,Domyos Kit Mancuernas 20kg,Fitness,Pesas Casa,55,False,3,56.03,168.09,2024,Thursday,57.24
+2024-11-07,PROD_013,Decathlon Bandas Elásticas Set,Fitness,Bandas Elásticas,25,False,3,25.39,76.17,2024,Thursday,25.06
+2024-11-07,PROD_014,Sveltus Kettlebell 12kg,Fitness,Pesa Rusa,40,False,3,39.73,119.19,2024,Thursday,42.2
+2024-11-07,PROD_015,Salomon Speedcross 5 GTX,Outdoor,Zapatillas Trail,150,True,3,152.79,458.37,2024,Thursday,153.44
+2024-11-07,PROD_016,Trek Marlin 7,Outdoor,Bicicleta Montaña,830,True,4,807.02,3228.08,2024,Thursday,838.39
+2024-11-07,PROD_017,The North Face Borealis,Outdoor,Mochila Trekking,95,False,3,94.05,282.15,2024,Thursday,90.03
+2024-11-07,PROD_018,Columbia Silver Ridge,Outdoor,Ropa Montaña,70,False,2,69.07,138.14,2024,Thursday,74.12
+2024-11-07,PROD_019,Merrell Moab 2 GTX,Outdoor,Zapatillas Trail,110,False,2,112.49,224.98,2024,Thursday,104.15
+2024-11-07,PROD_020,Quechua MH500,Outdoor,Ropa Montaña,80,False,2,80.53,161.06,2024,Thursday,80.77
+2024-11-07,PROD_021,Manduka PRO Yoga Mat,Wellness,Esterilla Yoga,130,True,6,128.4,770.4,2024,Thursday,144.14
+2024-11-07,PROD_022,Gaiam Premium Yoga Block,Wellness,Bloque Yoga,20,False,2,19.77,39.54,2024,Thursday,21.54
+2024-11-07,PROD_023,Liforme Yoga Pad,Wellness,Rodillera Yoga,35,False,2,34.29,68.58,2024,Thursday,34.39
+2024-11-07,PROD_024,Lotuscrafts Yoga Bolster,Wellness,Cojín Yoga,50,False,1,50.96,50.96,2024,Thursday,49.47
+2024-11-08,PROD_001,Nike Air Zoom Pegasus 40,Running,Zapatillas Running,115,True,16,113.95,1823.2,2024,Friday,93.23
+2024-11-08,PROD_002,Adidas Ultraboost 23,Running,Zapatillas Running,135,True,18,131.69,2370.42,2024,Friday,123.53
+2024-11-08,PROD_003,Asics Gel Nimbus 25,Running,Zapatillas Running,85,False,4,85.26,341.04,2024,Friday,88.9
+2024-11-08,PROD_004,New Balance Fresh Foam X 1080v12,Running,Zapatillas Running,75,False,3,76.07,228.21,2024,Friday,75.94
+2024-11-08,PROD_005,Nike Dri-FIT Miler,Running,Ropa Running,35,False,3,34.36,103.08,2024,Friday,35.95
+2024-11-08,PROD_006,Adidas Own The Run Jacket,Running,Ropa Running,65,False,3,63.91,191.73,2024,Friday,70.14
+2024-11-08,PROD_007,Puma Velocity Nitro 2,Running,Zapatillas Running,70,False,3,69.75,209.25,2024,Friday,65.19
+2024-11-08,PROD_008,Reebok Floatride Energy 5,Running,Zapatillas Running,65,False,2,63.97,127.94,2024,Friday,66.96
+2024-11-08,PROD_009,Bowflex SelectTech 552,Fitness,Mancuernas Ajustables,400,True,3,404.04,1212.12,2024,Friday,404.38
+2024-11-08,PROD_010,Domyos BM900,Fitness,Banco Gimnasio,175,True,3,173.51,520.53,2024,Friday,194.52
+2024-11-08,PROD_011,Reebok Professional Deck,Fitness,Esterilla Fitness,45,False,5,44.33,221.65,2024,Friday,45.56
+2024-11-08,PROD_012,Domyos Kit Mancuernas 20kg,Fitness,Pesas Casa,55,False,4,55.21,220.84,2024,Friday,58.57
+2024-11-08,PROD_013,Decathlon Bandas Elásticas Set,Fitness,Bandas Elásticas,25,False,4,25.34,101.36,2024,Friday,23.31
+2024-11-08,PROD_014,Sveltus Kettlebell 12kg,Fitness,Pesa Rusa,40,False,4,40.89,163.56,2024,Friday,42.07
+2024-11-08,PROD_015,Salomon Speedcross 5 GTX,Outdoor,Zapatillas Trail,150,True,5,152.51,762.55,2024,Friday,147.59
+2024-11-08,PROD_016,Trek Marlin 7,Outdoor,Bicicleta Montaña,830,True,4,838.3,3353.2,2024,Friday,832.05
+2024-11-08,PROD_017,The North Face Borealis,Outdoor,Mochila Trekking,95,False,2,95.3,190.6,2024,Friday,92.16
+2024-11-08,PROD_018,Columbia Silver Ridge,Outdoor,Ropa Montaña,70,False,2,69.04,138.08,2024,Friday,64.44
+2024-11-08,PROD_019,Merrell Moab 2 GTX,Outdoor,Zapatillas Trail,110,False,2,110.87,221.74,2024,Friday,115.65
+2024-11-08,PROD_020,Quechua MH500,Outdoor,Ropa Montaña,80,False,2,81.75,163.5,2024,Friday,80.54
+2024-11-08,PROD_021,Manduka PRO Yoga Mat,Wellness,Esterilla Yoga,130,True,7,132.07,924.49,2024,Friday,138.93
+2024-11-08,PROD_022,Gaiam Premium Yoga Block,Wellness,Bloque Yoga,20,False,2,20.32,40.64,2024,Friday,19.1
+2024-11-08,PROD_023,Liforme Yoga Pad,Wellness,Rodillera Yoga,35,False,2,34.71,69.42,2024,Friday,34.65
+2024-11-08,PROD_024,Lotuscrafts Yoga Bolster,Wellness,Cojín Yoga,50,False,2,50.28,100.56,2024,Friday,47.28
+2024-11-09,PROD_001,Nike Air Zoom Pegasus 40,Running,Zapatillas Running,115,True,15,116.49,1747.35,2024,Saturday,91.08
+2024-11-09,PROD_002,Adidas Ultraboost 23,Running,Zapatillas Running,135,True,20,133.75,2675.0,2024,Saturday,129.55
+2024-11-09,PROD_003,Asics Gel Nimbus 25,Running,Zapatillas Running,85,False,4,84.06,336.24,2024,Saturday,87.76
+2024-11-09,PROD_004,New Balance Fresh Foam X 1080v12,Running,Zapatillas Running,75,False,5,75.5,377.5,2024,Saturday,70.71
+2024-11-09,PROD_005,Nike Dri-FIT Miler,Running,Ropa Running,35,False,3,35.73,107.19,2024,Saturday,33.43
+2024-11-09,PROD_006,Adidas Own The Run Jacket,Running,Ropa Running,65,False,3,63.1,189.3,2024,Saturday,66.06
+2024-11-09,PROD_007,Puma Velocity Nitro 2,Running,Zapatillas Running,70,False,3,68.57,205.71,2024,Saturday,71.18
+2024-11-09,PROD_008,Reebok Floatride Energy 5,Running,Zapatillas Running,65,False,3,63.37,190.11,2024,Saturday,61.82
+2024-11-09,PROD_009,Bowflex SelectTech 552,Fitness,Mancuernas Ajustables,400,True,3,411.3,1233.9,2024,Saturday,412.01
+2024-11-09,PROD_010,Domyos BM900,Fitness,Banco Gimnasio,175,True,3,175.79,527.37,2024,Saturday,192.92
+2024-11-09,PROD_011,Reebok Professional Deck,Fitness,Esterilla Fitness,45,False,5,43.76,218.8,2024,Saturday,44.31
+2024-11-09,PROD_012,Domyos Kit Mancuernas 20kg,Fitness,Pesas Casa,55,False,4,54.65,218.6,2024,Saturday,53.57
+2024-11-09,PROD_013,Decathlon Bandas Elásticas Set,Fitness,Bandas Elásticas,25,False,4,25.54,102.16,2024,Saturday,23.55
+2024-11-09,PROD_014,Sveltus Kettlebell 12kg,Fitness,Pesa Rusa,40,False,4,39.32,157.28,2024,Saturday,39.23
+2024-11-09,PROD_015,Salomon Speedcross 5 GTX,Outdoor,Zapatillas Trail,150,True,7,147.44,1032.08,2024,Saturday,149.21
+2024-11-09,PROD_016,Trek Marlin 7,Outdoor,Bicicleta Montaña,830,True,5,818.48,4092.4,2024,Saturday,826.42
+2024-11-09,PROD_017,The North Face Borealis,Outdoor,Mochila Trekking,95,False,3,94.65,283.95,2024,Saturday,92.66
+2024-11-09,PROD_018,Columbia Silver Ridge,Outdoor,Ropa Montaña,70,False,2,71.09,142.18,2024,Saturday,68.0
+2024-11-09,PROD_019,Merrell Moab 2 GTX,Outdoor,Zapatillas Trail,110,False,4,109.53,438.12,2024,Saturday,115.47
+2024-11-09,PROD_020,Quechua MH500,Outdoor,Ropa Montaña,80,False,3,81.26,243.78,2024,Saturday,83.28
+2024-11-09,PROD_021,Manduka PRO Yoga Mat,Wellness,Esterilla Yoga,130,True,9,127.56,1148.04,2024,Saturday,137.42
+2024-11-09,PROD_022,Gaiam Premium Yoga Block,Wellness,Bloque Yoga,20,False,2,19.95,39.9,2024,Saturday,21.24
+2024-11-09,PROD_023,Liforme Yoga Pad,Wellness,Rodillera Yoga,35,False,2,35.34,70.68,2024,Saturday,32.94
+2024-11-09,PROD_024,Lotuscrafts Yoga Bolster,Wellness,Cojín Yoga,50,False,2,48.99,97.98,2024,Saturday,47.15
+2024-11-10,PROD_001,Nike Air Zoom Pegasus 40,Running,Zapatillas Running,115,True,18,114.32,2057.76,2024,Sunday,91.08
+2024-11-10,PROD_002,Adidas Ultraboost 23,Running,Zapatillas Running,135,True,14,135.37,1895.18,2024,Sunday,127.93
+2024-11-10,PROD_003,Asics Gel Nimbus 25,Running,Zapatillas Running,85,False,3,85.65,256.95,2024,Sunday,87.61
+2024-11-10,PROD_004,New Balance Fresh Foam X 1080v12,Running,Zapatillas Running,75,False,4,76.21,304.84,2024,Sunday,76.16
+2024-11-10,PROD_005,Nike Dri-FIT Miler,Running,Ropa Running,35,False,3,35.59,106.77,2024,Sunday,37.0
+2024-11-10,PROD_006,Adidas Own The Run Jacket,Running,Ropa Running,65,False,3,66.9,200.7,2024,Sunday,61.61
+2024-11-10,PROD_007,Puma Velocity Nitro 2,Running,Zapatillas Running,70,False,3,70.6,211.8,2024,Sunday,69.87
+2024-11-10,PROD_008,Reebok Floatride Energy 5,Running,Zapatillas Running,65,False,3,65.44,196.32,2024,Sunday,65.4
+2024-11-10,PROD_009,Bowflex SelectTech 552,Fitness,Mancuernas Ajustables,400,True,2,399.3,798.6,2024,Sunday,395.9
+2024-11-10,PROD_010,Domyos BM900,Fitness,Banco Gimnasio,175,True,3,179.25,537.75,2024,Sunday,189.79
+2024-11-10,PROD_011,Reebok Professional Deck,Fitness,Esterilla Fitness,45,False,4,45.63,182.52,2024,Sunday,46.72
+2024-11-10,PROD_012,Domyos Kit Mancuernas 20kg,Fitness,Pesas Casa,55,False,4,55.39,221.56,2024,Sunday,55.56
+2024-11-10,PROD_013,Decathlon Bandas Elásticas Set,Fitness,Bandas Elásticas,25,False,4,24.75,99.0,2024,Sunday,25.91
+2024-11-10,PROD_014,Sveltus Kettlebell 12kg,Fitness,Pesa Rusa,40,False,5,39.07,195.35,2024,Sunday,37.34
+2024-11-10,PROD_015,Salomon Speedcross 5 GTX,Outdoor,Zapatillas Trail,150,True,6,150.27,901.62,2024,Sunday,150.22
+2024-11-10,PROD_016,Trek Marlin 7,Outdoor,Bicicleta Montaña,830,True,4,830.13,3320.52,2024,Sunday,827.26
+2024-11-10,PROD_017,The North Face Borealis,Outdoor,Mochila Trekking,95,False,3,94.89,284.67,2024,Sunday,93.22
+2024-11-10,PROD_018,Columbia Silver Ridge,Outdoor,Ropa Montaña,70,False,3,72.07,216.21,2024,Sunday,71.83
+2024-11-10,PROD_019,Merrell Moab 2 GTX,Outdoor,Zapatillas Trail,110,False,2,109.02,218.04,2024,Sunday,112.06
+2024-11-10,PROD_020,Quechua MH500,Outdoor,Ropa Montaña,80,False,2,81.46,162.92,2024,Sunday,85.88
+2024-11-10,PROD_021,Manduka PRO Yoga Mat,Wellness,Esterilla Yoga,130,True,6,132.23,793.38,2024,Sunday,141.17
+2024-11-10,PROD_022,Gaiam Premium Yoga Block,Wellness,Bloque Yoga,20,False,2,20.59,41.18,2024,Sunday,21.12
+2024-11-10,PROD_023,Liforme Yoga Pad,Wellness,Rodillera Yoga,35,False,2,35.93,71.86,2024,Sunday,38.45
+2024-11-10,PROD_024,Lotuscrafts Yoga Bolster,Wellness,Cojín Yoga,50,False,1,51.17,51.17,2024,Sunday,50.78
+2024-11-11,PROD_001,Nike Air Zoom Pegasus 40,Running,Zapatillas Running,115,True,18,114.96,2069.28,2024,Monday,92.99
+2024-11-11,PROD_002,Adidas Ultraboost 23,Running,Zapatillas Running,135,True,17,136.21,2315.57,2024,Monday,127.86
+2024-11-11,PROD_003,Asics Gel Nimbus 25,Running,Zapatillas Running,85,False,3,85.39,256.17,2024,Monday,79.47
+2024-11-11,PROD_004,New Balance Fresh Foam X 1080v12,Running,Zapatillas Running,75,False,2,76.67,153.34,2024,Monday,77.17
+2024-11-11,PROD_005,Nike Dri-FIT Miler,Running,Ropa Running,35,False,3,35.76,107.28,2024,Monday,34.01
+2024-11-11,PROD_006,Adidas Own The Run Jacket,Running,Ropa Running,65,False,3,66.12,198.36,2024,Monday,69.81
+2024-11-11,PROD_007,Puma Velocity Nitro 2,Running,Zapatillas Running,70,False,3,69.53,208.59,2024,Monday,72.24
+2024-11-11,PROD_008,Reebok Floatride Energy 5,Running,Zapatillas Running,65,False,3,64.22,192.66,2024,Monday,62.75
+2024-11-11,PROD_009,Bowflex SelectTech 552,Fitness,Mancuernas Ajustables,400,True,3,398.87,1196.61,2024,Monday,402.62
+2024-11-11,PROD_010,Domyos BM900,Fitness,Banco Gimnasio,175,True,2,174.3,348.6,2024,Monday,192.87
+2024-11-11,PROD_011,Reebok Professional Deck,Fitness,Esterilla Fitness,45,False,4,44.97,179.88,2024,Monday,45.87
+2024-11-11,PROD_012,Domyos Kit Mancuernas 20kg,Fitness,Pesas Casa,55,False,4,56.09,224.36,2024,Monday,56.72
+2024-11-11,PROD_013,Decathlon Bandas Elásticas Set,Fitness,Bandas Elásticas,25,False,4,25.25,101.0,2024,Monday,26.65
+2024-11-11,PROD_014,Sveltus Kettlebell 12kg,Fitness,Pesa Rusa,40,False,3,40.35,121.05,2024,Monday,37.61
+2024-11-11,PROD_015,Salomon Speedcross 5 GTX,Outdoor,Zapatillas Trail,150,True,4,152.33,609.32,2024,Monday,147.32
+2024-11-11,PROD_016,Trek Marlin 7,Outdoor,Bicicleta Montaña,830,True,4,843.41,3373.64,2024,Monday,830.33
+2024-11-11,PROD_017,The North Face Borealis,Outdoor,Mochila Trekking,95,False,2,94.26,188.52,2024,Monday,103.76
+2024-11-11,PROD_018,Columbia Silver Ridge,Outdoor,Ropa Montaña,70,False,2,67.9,135.8,2024,Monday,76.33
+2024-11-11,PROD_019,Merrell Moab 2 GTX,Outdoor,Zapatillas Trail,110,False,2,111.31,222.62,2024,Monday,114.91
+2024-11-11,PROD_020,Quechua MH500,Outdoor,Ropa Montaña,80,False,2,77.7,155.4,2024,Monday,76.42
+2024-11-11,PROD_021,Manduka PRO Yoga Mat,Wellness,Esterilla Yoga,130,True,7,127.65,893.55,2024,Monday,142.79
+2024-11-11,PROD_022,Gaiam Premium Yoga Block,Wellness,Bloque Yoga,20,False,1,20.32,20.32,2024,Monday,21.1
+2024-11-11,PROD_023,Liforme Yoga Pad,Wellness,Rodillera Yoga,35,False,2,34.44,68.88,2024,Monday,36.28
+2024-11-11,PROD_024,Lotuscrafts Yoga Bolster,Wellness,Cojín Yoga,50,False,1,50.36,50.36,2024,Monday,52.62
+2024-11-12,PROD_001,Nike Air Zoom Pegasus 40,Running,Zapatillas Running,115,True,16,116.9,1870.4,2024,Tuesday,93.01
+2024-11-12,PROD_002,Adidas Ultraboost 23,Running,Zapatillas Running,135,True,12,136.51,1638.12,2024,Tuesday,127.26
+2024-11-12,PROD_003,Asics Gel Nimbus 25,Running,Zapatillas Running,85,False,3,87.32,261.96,2024,Tuesday,84.85
+2024-11-12,PROD_004,New Balance Fresh Foam X 1080v12,Running,Zapatillas Running,75,False,4,76.34,305.36,2024,Tuesday,72.15
+2024-11-12,PROD_005,Nike Dri-FIT Miler,Running,Ropa Running,35,False,3,34.27,102.81,2024,Tuesday,36.3
+2024-11-12,PROD_006,Adidas Own The Run Jacket,Running,Ropa Running,65,False,3,63.65,190.95,2024,Tuesday,70.23
+2024-11-12,PROD_007,Puma Velocity Nitro 2,Running,Zapatillas Running,70,False,2,68.58,137.16,2024,Tuesday,74.27
+2024-11-12,PROD_008,Reebok Floatride Energy 5,Running,Zapatillas Running,65,False,2,63.73,127.46,2024,Tuesday,65.21
+2024-11-12,PROD_009,Bowflex SelectTech 552,Fitness,Mancuernas Ajustables,400,True,3,394.45,1183.35,2024,Tuesday,409.9
+2024-11-12,PROD_010,Domyos BM900,Fitness,Banco Gimnasio,175,True,3,170.89,512.67,2024,Tuesday,193.11
+2024-11-12,PROD_011,Reebok Professional Deck,Fitness,Esterilla Fitness,45,False,3,45.71,137.13,2024,Tuesday,41.24
+2024-11-12,PROD_012,Domyos Kit Mancuernas 20kg,Fitness,Pesas Casa,55,False,3,53.77,161.31,2024,Tuesday,58.12
+2024-11-12,PROD_013,Decathlon Bandas Elásticas Set,Fitness,Bandas Elásticas,25,False,3,25.73,77.19,2024,Tuesday,24.3
+2024-11-12,PROD_014,Sveltus Kettlebell 12kg,Fitness,Pesa Rusa,40,False,3,39.43,118.29,2024,Tuesday,40.28
+2024-11-12,PROD_015,Salomon Speedcross 5 GTX,Outdoor,Zapatillas Trail,150,True,5,151.7,758.5,2024,Tuesday,149.46
+2024-11-12,PROD_016,Trek Marlin 7,Outdoor,Bicicleta Montaña,830,True,3,832.18,2496.54,2024,Tuesday,831.8
+2024-11-12,PROD_017,The North Face Borealis,Outdoor,Mochila Trekking,95,False,3,95.2,285.6,2024,Tuesday,91.13
+2024-11-12,PROD_018,Columbia Silver Ridge,Outdoor,Ropa Montaña,70,False,2,68.62,137.24,2024,Tuesday,73.11
+2024-11-12,PROD_019,Merrell Moab 2 GTX,Outdoor,Zapatillas Trail,110,False,2,111.58,223.16,2024,Tuesday,104.84
+2024-11-12,PROD_020,Quechua MH500,Outdoor,Ropa Montaña,80,False,2,77.97,155.94,2024,Tuesday,82.28
+2024-11-12,PROD_021,Manduka PRO Yoga Mat,Wellness,Esterilla Yoga,130,True,7,130.69,914.83,2024,Tuesday,140.72
+2024-11-12,PROD_022,Gaiam Premium Yoga Block,Wellness,Bloque Yoga,20,False,1,20.56,20.56,2024,Tuesday,19.99
+2024-11-12,PROD_023,Liforme Yoga Pad,Wellness,Rodillera Yoga,35,False,2,34.58,69.16,2024,Tuesday,35.57
+2024-11-12,PROD_024,Lotuscrafts Yoga Bolster,Wellness,Cojín Yoga,50,False,1,49.6,49.6,2024,Tuesday,51.69
+2024-11-13,PROD_001,Nike Air Zoom Pegasus 40,Running,Zapatillas Running,115,True,15,113.43,1701.45,2024,Wednesday,93.68
+2024-11-13,PROD_002,Adidas Ultraboost 23,Running,Zapatillas Running,135,True,14,132.5,1855.0,2024,Wednesday,126.77
+2024-11-13,PROD_003,Asics Gel Nimbus 25,Running,Zapatillas Running,85,False,3,83.97,251.91,2024,Wednesday,81.31
+2024-11-13,PROD_004,New Balance Fresh Foam X 1080v12,Running,Zapatillas Running,75,False,2,72.86,145.72,2024,Wednesday,73.87
+2024-11-13,PROD_005,Nike Dri-FIT Miler,Running,Ropa Running,35,False,3,35.93,107.79,2024,Wednesday,35.53
+2024-11-13,PROD_006,Adidas Own The Run Jacket,Running,Ropa Running,65,False,3,65.79,197.37,2024,Wednesday,61.22
+2024-11-13,PROD_007,Puma Velocity Nitro 2,Running,Zapatillas Running,70,False,3,68.2,204.6,2024,Wednesday,63.03
+2024-11-13,PROD_008,Reebok Floatride Energy 5,Running,Zapatillas Running,65,False,3,66.89,200.67,2024,Wednesday,64.51
+2024-11-13,PROD_009,Bowflex SelectTech 552,Fitness,Mancuernas Ajustables,400,True,3,396.21,1188.63,2024,Wednesday,406.61
+2024-11-13,PROD_010,Domyos BM900,Fitness,Banco Gimnasio,175,True,2,170.73,341.46,2024,Wednesday,191.57
+2024-11-13,PROD_011,Reebok Professional Deck,Fitness,Esterilla Fitness,45,False,3,46.09,138.27,2024,Wednesday,47.09
+2024-11-13,PROD_012,Domyos Kit Mancuernas 20kg,Fitness,Pesas Casa,55,False,4,55.67,222.68,2024,Wednesday,59.22
+2024-11-13,PROD_013,Decathlon Bandas Elásticas Set,Fitness,Bandas Elásticas,25,False,3,25.59,76.77,2024,Wednesday,23.0
+2024-11-13,PROD_014,Sveltus Kettlebell 12kg,Fitness,Pesa Rusa,40,False,4,39.65,158.6,2024,Wednesday,42.24
+2024-11-13,PROD_015,Salomon Speedcross 5 GTX,Outdoor,Zapatillas Trail,150,True,5,147.2,736.0,2024,Wednesday,150.13
+2024-11-13,PROD_016,Trek Marlin 7,Outdoor,Bicicleta Montaña,830,True,4,834.42,3337.68,2024,Wednesday,832.07
+2024-11-13,PROD_017,The North Face Borealis,Outdoor,Mochila Trekking,95,False,2,96.93,193.86,2024,Wednesday,90.85
+2024-11-13,PROD_018,Columbia Silver Ridge,Outdoor,Ropa Montaña,70,False,2,69.37,138.74,2024,Wednesday,74.86
+2024-11-13,PROD_019,Merrell Moab 2 GTX,Outdoor,Zapatillas Trail,110,False,2,107.84,215.68,2024,Wednesday,119.73
+2024-11-13,PROD_020,Quechua MH500,Outdoor,Ropa Montaña,80,False,2,80.73,161.46,2024,Wednesday,81.29
+2024-11-13,PROD_021,Manduka PRO Yoga Mat,Wellness,Esterilla Yoga,130,True,7,127.42,891.94,2024,Wednesday,139.55
+2024-11-13,PROD_022,Gaiam Premium Yoga Block,Wellness,Bloque Yoga,20,False,2,20.47,40.94,2024,Wednesday,20.49
+2024-11-13,PROD_023,Liforme Yoga Pad,Wellness,Rodillera Yoga,35,False,2,34.13,68.26,2024,Wednesday,35.15
+2024-11-13,PROD_024,Lotuscrafts Yoga Bolster,Wellness,Cojín Yoga,50,False,1,48.63,48.63,2024,Wednesday,50.71
+2024-11-14,PROD_001,Nike Air Zoom Pegasus 40,Running,Zapatillas Running,115,True,12,118.44,1421.28,2024,Thursday,91.1
+2024-11-14,PROD_002,Adidas Ultraboost 23,Running,Zapatillas Running,135,True,15,134.31,2014.65,2024,Thursday,126.14
+2024-11-14,PROD_003,Asics Gel Nimbus 25,Running,Zapatillas Running,85,False,3,82.49,247.47,2024,Thursday,77.88
+2024-11-14,PROD_004,New Balance Fresh Foam X 1080v12,Running,Zapatillas Running,75,False,3,75.1,225.3,2024,Thursday,80.61
+2024-11-14,PROD_005,Nike Dri-FIT Miler,Running,Ropa Running,35,False,2,35.26,70.52,2024,Thursday,36.98
+2024-11-14,PROD_006,Adidas Own The Run Jacket,Running,Ropa Running,65,False,3,65.85,197.55,2024,Thursday,60.91
+2024-11-14,PROD_007,Puma Velocity Nitro 2,Running,Zapatillas Running,70,False,3,68.39,205.17,2024,Thursday,67.66
+2024-11-14,PROD_008,Reebok Floatride Energy 5,Running,Zapatillas Running,65,False,2,63.38,126.76,2024,Thursday,63.26
+2024-11-14,PROD_009,Bowflex SelectTech 552,Fitness,Mancuernas Ajustables,400,True,2,390.8,781.6,2024,Thursday,405.79
+2024-11-14,PROD_010,Domyos BM900,Fitness,Banco Gimnasio,175,True,3,171.72,515.16,2024,Thursday,189.4
+2024-11-14,PROD_011,Reebok Professional Deck,Fitness,Esterilla Fitness,45,False,3,44.16,132.48,2024,Thursday,44.42
+2024-11-14,PROD_012,Domyos Kit Mancuernas 20kg,Fitness,Pesas Casa,55,False,4,54.92,219.68,2024,Thursday,51.11
+2024-11-14,PROD_013,Decathlon Bandas Elásticas Set,Fitness,Bandas Elásticas,25,False,3,25.03,75.09,2024,Thursday,26.41
+2024-11-14,PROD_014,Sveltus Kettlebell 12kg,Fitness,Pesa Rusa,40,False,3,39.42,118.26,2024,Thursday,40.72
+2024-11-14,PROD_015,Salomon Speedcross 5 GTX,Outdoor,Zapatillas Trail,150,True,5,151.21,756.05,2024,Thursday,151.51
+2024-11-14,PROD_016,Trek Marlin 7,Outdoor,Bicicleta Montaña,830,True,3,841.73,2525.19,2024,Thursday,809.38
+2024-11-14,PROD_017,The North Face Borealis,Outdoor,Mochila Trekking,95,False,2,92.88,185.76,2024,Thursday,91.36
+2024-11-14,PROD_018,Columbia Silver Ridge,Outdoor,Ropa Montaña,70,False,2,69.96,139.92,2024,Thursday,70.77
+2024-11-14,PROD_019,Merrell Moab 2 GTX,Outdoor,Zapatillas Trail,110,False,2,108.68,217.36,2024,Thursday,107.52
+2024-11-14,PROD_020,Quechua MH500,Outdoor,Ropa Montaña,80,False,2,81.58,163.16,2024,Thursday,86.07
+2024-11-14,PROD_021,Manduka PRO Yoga Mat,Wellness,Esterilla Yoga,130,True,7,127.91,895.37,2024,Thursday,143.33
+2024-11-14,PROD_022,Gaiam Premium Yoga Block,Wellness,Bloque Yoga,20,False,1,20.37,20.37,2024,Thursday,21.06
+2024-11-14,PROD_023,Liforme Yoga Pad,Wellness,Rodillera Yoga,35,False,1,34.11,34.11,2024,Thursday,35.58
+2024-11-14,PROD_024,Lotuscrafts Yoga Bolster,Wellness,Cojín Yoga,50,False,1,49.31,49.31,2024,Thursday,48.94
+2024-11-15,PROD_001,Nike Air Zoom Pegasus 40,Running,Zapatillas Running,115,True,19,112.32,2134.08,2024,Friday,91.5
+2024-11-15,PROD_002,Adidas Ultraboost 23,Running,Zapatillas Running,135,True,17,131.4,2233.8,2024,Friday,125.49
+2024-11-15,PROD_003,Asics Gel Nimbus 25,Running,Zapatillas Running,85,False,4,83.9,335.6,2024,Friday,83.28
+2024-11-15,PROD_004,New Balance Fresh Foam X 1080v12,Running,Zapatillas Running,75,False,3,73.87,221.61,2024,Friday,74.01
+2024-11-15,PROD_005,Nike Dri-FIT Miler,Running,Ropa Running,35,False,4,35.58,142.32,2024,Friday,36.64
+2024-11-15,PROD_006,Adidas Own The Run Jacket,Running,Ropa Running,65,False,3,66.41,199.23,2024,Friday,64.85
+2024-11-15,PROD_007,Puma Velocity Nitro 2,Running,Zapatillas Running,70,False,3,68.01,204.03,2024,Friday,75.4
+2024-11-15,PROD_008,Reebok Floatride Energy 5,Running,Zapatillas Running,65,False,3,66.5,199.5,2024,Friday,67.96
+2024-11-15,PROD_009,Bowflex SelectTech 552,Fitness,Mancuernas Ajustables,400,True,3,391.18,1173.54,2024,Friday,400.91
+2024-11-15,PROD_010,Domyos BM900,Fitness,Banco Gimnasio,175,True,3,178.52,535.56,2024,Friday,192.05
+2024-11-15,PROD_011,Reebok Professional Deck,Fitness,Esterilla Fitness,45,False,4,45.96,183.84,2024,Friday,42.91
+2024-11-15,PROD_012,Domyos Kit Mancuernas 20kg,Fitness,Pesas Casa,55,False,5,53.69,268.45,2024,Friday,54.02
+2024-11-15,PROD_013,Decathlon Bandas Elásticas Set,Fitness,Bandas Elásticas,25,False,4,25.19,100.76,2024,Friday,24.95
+2024-11-15,PROD_014,Sveltus Kettlebell 12kg,Fitness,Pesa Rusa,40,False,4,41.16,164.64,2024,Friday,39.49
+2024-11-15,PROD_015,Salomon Speedcross 5 GTX,Outdoor,Zapatillas Trail,150,True,5,152.92,764.6,2024,Friday,151.43
+2024-11-15,PROD_016,Trek Marlin 7,Outdoor,Bicicleta Montaña,830,True,4,826.64,3306.56,2024,Friday,812.88
+2024-11-15,PROD_017,The North Face Borealis,Outdoor,Mochila Trekking,95,False,3,95.91,287.73,2024,Friday,97.74
+2024-11-15,PROD_018,Columbia Silver Ridge,Outdoor,Ropa Montaña,70,False,3,71.89,215.67,2024,Friday,73.29
+2024-11-15,PROD_019,Merrell Moab 2 GTX,Outdoor,Zapatillas Trail,110,False,2,107.59,215.18,2024,Friday,111.8
+2024-11-15,PROD_020,Quechua MH500,Outdoor,Ropa Montaña,80,False,2,79.67,159.34,2024,Friday,83.38
+2024-11-15,PROD_021,Manduka PRO Yoga Mat,Wellness,Esterilla Yoga,130,True,7,133.63,935.41,2024,Friday,137.1
+2024-11-15,PROD_022,Gaiam Premium Yoga Block,Wellness,Bloque Yoga,20,False,2,19.47,38.94,2024,Friday,18.28
+2024-11-15,PROD_023,Liforme Yoga Pad,Wellness,Rodillera Yoga,35,False,2,35.98,71.96,2024,Friday,31.44
+2024-11-15,PROD_024,Lotuscrafts Yoga Bolster,Wellness,Cojín Yoga,50,False,2,50.82,101.64,2024,Friday,52.52
+2024-11-16,PROD_001,Nike Air Zoom Pegasus 40,Running,Zapatillas Running,115,True,16,116.11,1857.76,2024,Saturday,91.94
+2024-11-16,PROD_002,Adidas Ultraboost 23,Running,Zapatillas Running,135,True,20,135.88,2717.6,2024,Saturday,129.3
+2024-11-16,PROD_003,Asics Gel Nimbus 25,Running,Zapatillas Running,85,False,5,83.88,419.4,2024,Saturday,93.05
+2024-11-16,PROD_004,New Balance Fresh Foam X 1080v12,Running,Zapatillas Running,75,False,4,72.89,291.56,2024,Saturday,68.58
+2024-11-16,PROD_005,Nike Dri-FIT Miler,Running,Ropa Running,35,False,4,34.33,137.32,2024,Saturday,37.43
+2024-11-16,PROD_006,Adidas Own The Run Jacket,Running,Ropa Running,65,False,4,64.23,256.92,2024,Saturday,59.28
+2024-11-16,PROD_007,Puma Velocity Nitro 2,Running,Zapatillas Running,70,False,3,71.78,215.34,2024,Saturday,67.09
+2024-11-16,PROD_008,Reebok Floatride Energy 5,Running,Zapatillas Running,65,False,3,63.75,191.25,2024,Saturday,65.88
+2024-11-16,PROD_009,Bowflex SelectTech 552,Fitness,Mancuernas Ajustables,400,True,3,401.88,1205.64,2024,Saturday,408.79
+2024-11-16,PROD_010,Domyos BM900,Fitness,Banco Gimnasio,175,True,3,171.41,514.23,2024,Saturday,196.44
+2024-11-16,PROD_011,Reebok Professional Deck,Fitness,Esterilla Fitness,45,False,5,45.26,226.3,2024,Saturday,42.91
+2024-11-16,PROD_012,Domyos Kit Mancuernas 20kg,Fitness,Pesas Casa,55,False,5,56.19,280.95,2024,Saturday,56.64
+2024-11-16,PROD_013,Decathlon Bandas Elásticas Set,Fitness,Bandas Elásticas,25,False,5,25.62,128.1,2024,Saturday,23.47
+2024-11-16,PROD_014,Sveltus Kettlebell 12kg,Fitness,Pesa Rusa,40,False,5,39.35,196.75,2024,Saturday,42.24
+2024-11-16,PROD_015,Salomon Speedcross 5 GTX,Outdoor,Zapatillas Trail,150,True,6,147.97,887.82,2024,Saturday,150.02
+2024-11-16,PROD_016,Trek Marlin 7,Outdoor,Bicicleta Montaña,830,True,5,817.69,4088.45,2024,Saturday,839.0
+2024-11-16,PROD_017,The North Face Borealis,Outdoor,Mochila Trekking,95,False,4,97.7,390.8,2024,Saturday,96.85
+2024-11-16,PROD_018,Columbia Silver Ridge,Outdoor,Ropa Montaña,70,False,3,69.08,207.24,2024,Saturday,65.1
+2024-11-16,PROD_019,Merrell Moab 2 GTX,Outdoor,Zapatillas Trail,110,False,3,110.68,332.04,2024,Saturday,108.39
+2024-11-16,PROD_020,Quechua MH500,Outdoor,Ropa Montaña,80,False,2,82.32,164.64,2024,Saturday,79.5
+2024-11-16,PROD_021,Manduka PRO Yoga Mat,Wellness,Esterilla Yoga,130,True,9,127.13,1144.17,2024,Saturday,139.69
+2024-11-16,PROD_022,Gaiam Premium Yoga Block,Wellness,Bloque Yoga,20,False,2,20.43,40.86,2024,Saturday,21.52
+2024-11-16,PROD_023,Liforme Yoga Pad,Wellness,Rodillera Yoga,35,False,2,34.97,69.94,2024,Saturday,38.14
+2024-11-16,PROD_024,Lotuscrafts Yoga Bolster,Wellness,Cojín Yoga,50,False,2,51.02,102.04,2024,Saturday,49.18
+2024-11-17,PROD_001,Nike Air Zoom Pegasus 40,Running,Zapatillas Running,115,True,16,114.79,1836.64,2024,Sunday,90.81
+2024-11-17,PROD_002,Adidas Ultraboost 23,Running,Zapatillas Running,135,True,16,138.54,2216.64,2024,Sunday,127.02
+2024-11-17,PROD_003,Asics Gel Nimbus 25,Running,Zapatillas Running,85,False,3,82.94,248.82,2024,Sunday,81.02
+2024-11-17,PROD_004,New Balance Fresh Foam X 1080v12,Running,Zapatillas Running,75,False,3,73.44,220.32,2024,Sunday,69.87
+2024-11-17,PROD_005,Nike Dri-FIT Miler,Running,Ropa Running,35,False,3,34.8,104.4,2024,Sunday,33.2
+2024-11-17,PROD_006,Adidas Own The Run Jacket,Running,Ropa Running,65,False,2,63.21,126.42,2024,Sunday,66.1
+2024-11-17,PROD_007,Puma Velocity Nitro 2,Running,Zapatillas Running,70,False,3,68.82,206.46,2024,Sunday,70.52
+2024-11-17,PROD_008,Reebok Floatride Energy 5,Running,Zapatillas Running,65,False,3,64.34,193.02,2024,Sunday,67.71
+2024-11-17,PROD_009,Bowflex SelectTech 552,Fitness,Mancuernas Ajustables,400,True,3,399.07,1197.21,2024,Sunday,411.26
+2024-11-17,PROD_010,Domyos BM900,Fitness,Banco Gimnasio,175,True,3,179.8,539.4,2024,Sunday,189.94
+2024-11-17,PROD_011,Reebok Professional Deck,Fitness,Esterilla Fitness,45,False,4,44.44,177.76,2024,Sunday,43.17
+2024-11-17,PROD_012,Domyos Kit Mancuernas 20kg,Fitness,Pesas Casa,55,False,5,53.36,266.8,2024,Sunday,56.19
+2024-11-17,PROD_013,Decathlon Bandas Elásticas Set,Fitness,Bandas Elásticas,25,False,5,25.15,125.75,2024,Sunday,26.85
+2024-11-17,PROD_014,Sveltus Kettlebell 12kg,Fitness,Pesa Rusa,40,False,3,40.6,121.8,2024,Sunday,41.52
+2024-11-17,PROD_015,Salomon Speedcross 5 GTX,Outdoor,Zapatillas Trail,150,True,4,154.01,616.04,2024,Sunday,150.19
+2024-11-17,PROD_016,Trek Marlin 7,Outdoor,Bicicleta Montaña,830,True,3,825.04,2475.12,2024,Sunday,838.9
+2024-11-17,PROD_017,The North Face Borealis,Outdoor,Mochila Trekking,95,False,3,93.84,281.52,2024,Sunday,101.18
+2024-11-17,PROD_018,Columbia Silver Ridge,Outdoor,Ropa Montaña,70,False,3,68.56,205.68,2024,Sunday,68.7
+2024-11-17,PROD_019,Merrell Moab 2 GTX,Outdoor,Zapatillas Trail,110,False,3,113.18,339.54,2024,Sunday,104.82
+2024-11-17,PROD_020,Quechua MH500,Outdoor,Ropa Montaña,80,False,2,82.39,164.78,2024,Sunday,77.66
+2024-11-17,PROD_021,Manduka PRO Yoga Mat,Wellness,Esterilla Yoga,130,True,7,130.03,910.21,2024,Sunday,140.17
+2024-11-17,PROD_022,Gaiam Premium Yoga Block,Wellness,Bloque Yoga,20,False,2,19.4,38.8,2024,Sunday,18.26
+2024-11-17,PROD_023,Liforme Yoga Pad,Wellness,Rodillera Yoga,35,False,2,35.64,71.28,2024,Sunday,33.46
+2024-11-17,PROD_024,Lotuscrafts Yoga Bolster,Wellness,Cojín Yoga,50,False,2,48.75,97.5,2024,Sunday,50.67
+2024-11-18,PROD_001,Nike Air Zoom Pegasus 40,Running,Zapatillas Running,115,True,17,116.24,1976.08,2024,Monday,92.12
+2024-11-18,PROD_002,Adidas Ultraboost 23,Running,Zapatillas Running,135,True,14,138.76,1942.64,2024,Monday,126.32
+2024-11-18,PROD_003,Asics Gel Nimbus 25,Running,Zapatillas Running,85,False,3,86.38,259.14,2024,Monday,84.6
+2024-11-18,PROD_004,New Balance Fresh Foam X 1080v12,Running,Zapatillas Running,75,False,2,73.4,146.8,2024,Monday,79.13
+2024-11-18,PROD_005,Nike Dri-FIT Miler,Running,Ropa Running,35,False,2,34.59,69.18,2024,Monday,31.88
+2024-11-18,PROD_006,Adidas Own The Run Jacket,Running,Ropa Running,65,False,2,66.62,133.24,2024,Monday,67.12
+2024-11-18,PROD_007,Puma Velocity Nitro 2,Running,Zapatillas Running,70,False,3,67.95,203.85,2024,Monday,72.85
+2024-11-18,PROD_008,Reebok Floatride Energy 5,Running,Zapatillas Running,65,False,2,65.91,131.82,2024,Monday,64.06
+2024-11-18,PROD_009,Bowflex SelectTech 552,Fitness,Mancuernas Ajustables,400,True,3,403.45,1210.35,2024,Monday,410.48
+2024-11-18,PROD_010,Domyos BM900,Fitness,Banco Gimnasio,175,True,3,173.2,519.6,2024,Monday,196.45
+2024-11-18,PROD_011,Reebok Professional Deck,Fitness,Esterilla Fitness,45,False,3,45.68,137.04,2024,Monday,45.56
+2024-11-18,PROD_012,Domyos Kit Mancuernas 20kg,Fitness,Pesas Casa,55,False,5,56.33,281.65,2024,Monday,60.37
+2024-11-18,PROD_013,Decathlon Bandas Elásticas Set,Fitness,Bandas Elásticas,25,False,4,24.32,97.28,2024,Monday,24.08
+2024-11-18,PROD_014,Sveltus Kettlebell 12kg,Fitness,Pesa Rusa,40,False,3,40.75,122.25,2024,Monday,41.35
+2024-11-18,PROD_015,Salomon Speedcross 5 GTX,Outdoor,Zapatillas Trail,150,True,4,147.32,589.28,2024,Monday,153.57
+2024-11-18,PROD_016,Trek Marlin 7,Outdoor,Bicicleta Montaña,830,True,4,809.36,3237.44,2024,Monday,819.82
+2024-11-18,PROD_017,The North Face Borealis,Outdoor,Mochila Trekking,95,False,3,95.8,287.4,2024,Monday,93.88
+2024-11-18,PROD_018,Columbia Silver Ridge,Outdoor,Ropa Montaña,70,False,2,68.03,136.06,2024,Monday,68.0
+2024-11-18,PROD_019,Merrell Moab 2 GTX,Outdoor,Zapatillas Trail,110,False,2,112.43,224.86,2024,Monday,108.08
+2024-11-18,PROD_020,Quechua MH500,Outdoor,Ropa Montaña,80,False,2,77.97,155.94,2024,Monday,87.13
+2024-11-18,PROD_021,Manduka PRO Yoga Mat,Wellness,Esterilla Yoga,130,True,6,133.48,800.88,2024,Monday,139.1
+2024-11-18,PROD_022,Gaiam Premium Yoga Block,Wellness,Bloque Yoga,20,False,1,19.99,19.99,2024,Monday,20.01
+2024-11-18,PROD_023,Liforme Yoga Pad,Wellness,Rodillera Yoga,35,False,1,35.7,35.7,2024,Monday,32.65
+2024-11-18,PROD_024,Lotuscrafts Yoga Bolster,Wellness,Cojín Yoga,50,False,1,51.14,51.14,2024,Monday,47.64
+2024-11-19,PROD_001,Nike Air Zoom Pegasus 40,Running,Zapatillas Running,115,True,12,118.2,1418.4,2024,Tuesday,90.63
+2024-11-19,PROD_002,Adidas Ultraboost 23,Running,Zapatillas Running,135,True,18,137.68,2478.24,2024,Tuesday,125.87
+2024-11-19,PROD_003,Asics Gel Nimbus 25,Running,Zapatillas Running,85,False,3,86.69,260.07,2024,Tuesday,83.12
+2024-11-19,PROD_004,New Balance Fresh Foam X 1080v12,Running,Zapatillas Running,75,False,2,73.44,146.88,2024,Tuesday,80.66
+2024-11-19,PROD_005,Nike Dri-FIT Miler,Running,Ropa Running,35,False,3,35.28,105.84,2024,Tuesday,34.17
+2024-11-19,PROD_006,Adidas Own The Run Jacket,Running,Ropa Running,65,False,3,64.31,192.93,2024,Tuesday,66.91
+2024-11-19,PROD_007,Puma Velocity Nitro 2,Running,Zapatillas Running,70,False,3,69.79,209.37,2024,Tuesday,67.38
+2024-11-19,PROD_008,Reebok Floatride Energy 5,Running,Zapatillas Running,65,False,3,64.29,192.87,2024,Tuesday,68.95
+2024-11-19,PROD_009,Bowflex SelectTech 552,Fitness,Mancuernas Ajustables,400,True,2,393.83,787.66,2024,Tuesday,408.27
+2024-11-19,PROD_010,Domyos BM900,Fitness,Banco Gimnasio,175,True,3,175.98,527.94,2024,Tuesday,195.87
+2024-11-19,PROD_011,Reebok Professional Deck,Fitness,Esterilla Fitness,45,False,5,45.4,227.0,2024,Tuesday,48.44
+2024-11-19,PROD_012,Domyos Kit Mancuernas 20kg,Fitness,Pesas Casa,55,False,4,56.28,225.12,2024,Tuesday,58.24
+2024-11-19,PROD_013,Decathlon Bandas Elásticas Set,Fitness,Bandas Elásticas,25,False,4,25.55,102.2,2024,Tuesday,26.3
+2024-11-19,PROD_014,Sveltus Kettlebell 12kg,Fitness,Pesa Rusa,40,False,3,39.85,119.55,2024,Tuesday,41.82
+2024-11-19,PROD_015,Salomon Speedcross 5 GTX,Outdoor,Zapatillas Trail,150,True,4,148.07,592.28,2024,Tuesday,147.5
+2024-11-19,PROD_016,Trek Marlin 7,Outdoor,Bicicleta Montaña,830,True,5,843.69,4218.45,2024,Tuesday,834.61
+2024-11-19,PROD_017,The North Face Borealis,Outdoor,Mochila Trekking,95,False,3,92.68,278.04,2024,Tuesday,92.65
+2024-11-19,PROD_018,Columbia Silver Ridge,Outdoor,Ropa Montaña,70,False,2,70.37,140.74,2024,Tuesday,70.08
+2024-11-19,PROD_019,Merrell Moab 2 GTX,Outdoor,Zapatillas Trail,110,False,2,110.77,221.54,2024,Tuesday,106.93
+2024-11-19,PROD_020,Quechua MH500,Outdoor,Ropa Montaña,80,False,2,80.13,160.26,2024,Tuesday,75.86
+2024-11-19,PROD_021,Manduka PRO Yoga Mat,Wellness,Esterilla Yoga,130,True,6,126.4,758.4,2024,Tuesday,138.81
+2024-11-19,PROD_022,Gaiam Premium Yoga Block,Wellness,Bloque Yoga,20,False,2,20.27,40.54,2024,Tuesday,18.6
+2024-11-19,PROD_023,Liforme Yoga Pad,Wellness,Rodillera Yoga,35,False,2,34.8,69.6,2024,Tuesday,33.83
+2024-11-19,PROD_024,Lotuscrafts Yoga Bolster,Wellness,Cojín Yoga,50,False,1,49.62,49.62,2024,Tuesday,48.01
+2024-11-20,PROD_001,Nike Air Zoom Pegasus 40,Running,Zapatillas Running,115,True,18,115.96,2087.28,2024,Wednesday,91.24
+2024-11-20,PROD_002,Adidas Ultraboost 23,Running,Zapatillas Running,135,True,16,131.1,2097.6,2024,Wednesday,127.04
+2024-11-20,PROD_003,Asics Gel Nimbus 25,Running,Zapatillas Running,85,False,4,86.71,346.84,2024,Wednesday,89.27
+2024-11-20,PROD_004,New Balance Fresh Foam X 1080v12,Running,Zapatillas Running,75,False,2,74.6,149.2,2024,Wednesday,74.2
+2024-11-20,PROD_005,Nike Dri-FIT Miler,Running,Ropa Running,35,False,2,36.03,72.06,2024,Wednesday,33.69
+2024-11-20,PROD_006,Adidas Own The Run Jacket,Running,Ropa Running,65,False,3,66.1,198.3,2024,Wednesday,62.19
+2024-11-20,PROD_007,Puma Velocity Nitro 2,Running,Zapatillas Running,70,False,2,69.74,139.48,2024,Wednesday,67.21
+2024-11-20,PROD_008,Reebok Floatride Energy 5,Running,Zapatillas Running,65,False,2,65.95,131.9,2024,Wednesday,72.12
+2024-11-20,PROD_009,Bowflex SelectTech 552,Fitness,Mancuernas Ajustables,400,True,3,392.38,1177.14,2024,Wednesday,405.58
+2024-11-20,PROD_010,Domyos BM900,Fitness,Banco Gimnasio,175,True,3,170.56,511.68,2024,Wednesday,192.96
+2024-11-20,PROD_011,Reebok Professional Deck,Fitness,Esterilla Fitness,45,False,4,44.19,176.76,2024,Wednesday,48.78
+2024-11-20,PROD_012,Domyos Kit Mancuernas 20kg,Fitness,Pesas Casa,55,False,4,55.76,223.04,2024,Wednesday,55.9
+2024-11-20,PROD_013,Decathlon Bandas Elásticas Set,Fitness,Bandas Elásticas,25,False,3,25.04,75.12,2024,Wednesday,23.44
+2024-11-20,PROD_014,Sveltus Kettlebell 12kg,Fitness,Pesa Rusa,40,False,3,38.92,116.76,2024,Wednesday,42.61
+2024-11-20,PROD_015,Salomon Speedcross 5 GTX,Outdoor,Zapatillas Trail,150,True,5,151.89,759.45,2024,Wednesday,149.34
+2024-11-20,PROD_016,Trek Marlin 7,Outdoor,Bicicleta Montaña,830,True,4,812.01,3248.04,2024,Wednesday,815.87
+2024-11-20,PROD_017,The North Face Borealis,Outdoor,Mochila Trekking,95,False,2,96.82,193.64,2024,Wednesday,87.94
+2024-11-20,PROD_018,Columbia Silver Ridge,Outdoor,Ropa Montaña,70,False,2,70.6,141.2,2024,Wednesday,70.39
+2024-11-20,PROD_019,Merrell Moab 2 GTX,Outdoor,Zapatillas Trail,110,False,2,111.92,223.84,2024,Wednesday,107.64
+2024-11-20,PROD_020,Quechua MH500,Outdoor,Ropa Montaña,80,False,2,82.0,164.0,2024,Wednesday,77.7
+2024-11-20,PROD_021,Manduka PRO Yoga Mat,Wellness,Esterilla Yoga,130,True,7,128.54,899.78,2024,Wednesday,142.15
+2024-11-20,PROD_022,Gaiam Premium Yoga Block,Wellness,Bloque Yoga,20,False,1,19.85,19.85,2024,Wednesday,20.1
+2024-11-20,PROD_023,Liforme Yoga Pad,Wellness,Rodillera Yoga,35,False,1,34.26,34.26,2024,Wednesday,36.49
+2024-11-20,PROD_024,Lotuscrafts Yoga Bolster,Wellness,Cojín Yoga,50,False,1,49.37,49.37,2024,Wednesday,48.89
+2024-11-21,PROD_001,Nike Air Zoom Pegasus 40,Running,Zapatillas Running,115,True,18,112.13,2018.34,2024,Thursday,93.67
+2024-11-21,PROD_002,Adidas Ultraboost 23,Running,Zapatillas Running,135,True,14,138.56,1939.84,2024,Thursday,123.16
+2024-11-21,PROD_003,Asics Gel Nimbus 25,Running,Zapatillas Running,85,False,3,84.39,253.17,2024,Thursday,92.78
+2024-11-21,PROD_004,New Balance Fresh Foam X 1080v12,Running,Zapatillas Running,75,False,3,75.66,226.98,2024,Thursday,78.47
+2024-11-21,PROD_005,Nike Dri-FIT Miler,Running,Ropa Running,35,False,3,35.1,105.3,2024,Thursday,32.44
+2024-11-21,PROD_006,Adidas Own The Run Jacket,Running,Ropa Running,65,False,2,65.57,131.14,2024,Thursday,64.27
+2024-11-21,PROD_007,Puma Velocity Nitro 2,Running,Zapatillas Running,70,False,3,70.89,212.67,2024,Thursday,64.81
+2024-11-21,PROD_008,Reebok Floatride Energy 5,Running,Zapatillas Running,65,False,2,63.51,127.02,2024,Thursday,64.04
+2024-11-21,PROD_009,Bowflex SelectTech 552,Fitness,Mancuernas Ajustables,400,True,3,388.24,1164.72,2024,Thursday,402.8
+2024-11-21,PROD_010,Domyos BM900,Fitness,Banco Gimnasio,175,True,3,176.28,528.84,2024,Thursday,196.9
+2024-11-21,PROD_011,Reebok Professional Deck,Fitness,Esterilla Fitness,45,False,4,44.35,177.4,2024,Thursday,47.88
+2024-11-21,PROD_012,Domyos Kit Mancuernas 20kg,Fitness,Pesas Casa,55,False,4,54.34,217.36,2024,Thursday,53.45
+2024-11-21,PROD_013,Decathlon Bandas Elásticas Set,Fitness,Bandas Elásticas,25,False,3,24.99,74.97,2024,Thursday,26.23
+2024-11-21,PROD_014,Sveltus Kettlebell 12kg,Fitness,Pesa Rusa,40,False,4,39.93,159.72,2024,Thursday,38.37
+2024-11-21,PROD_015,Salomon Speedcross 5 GTX,Outdoor,Zapatillas Trail,150,True,5,146.21,731.05,2024,Thursday,151.43
+2024-11-21,PROD_016,Trek Marlin 7,Outdoor,Bicicleta Montaña,830,True,4,833.25,3333.0,2024,Thursday,826.98
+2024-11-21,PROD_017,The North Face Borealis,Outdoor,Mochila Trekking,95,False,2,93.97,187.94,2024,Thursday,93.64
+2024-11-21,PROD_018,Columbia Silver Ridge,Outdoor,Ropa Montaña,70,False,2,70.71,141.42,2024,Thursday,69.56
+2024-11-21,PROD_019,Merrell Moab 2 GTX,Outdoor,Zapatillas Trail,110,False,2,111.56,223.12,2024,Thursday,112.37
+2024-11-21,PROD_020,Quechua MH500,Outdoor,Ropa Montaña,80,False,2,79.47,158.94,2024,Thursday,81.91
+2024-11-21,PROD_021,Manduka PRO Yoga Mat,Wellness,Esterilla Yoga,130,True,6,131.44,788.64,2024,Thursday,142.33
+2024-11-21,PROD_022,Gaiam Premium Yoga Block,Wellness,Bloque Yoga,20,False,1,19.76,19.76,2024,Thursday,20.16
+2024-11-21,PROD_023,Liforme Yoga Pad,Wellness,Rodillera Yoga,35,False,1,34.22,34.22,2024,Thursday,33.68
+2024-11-21,PROD_024,Lotuscrafts Yoga Bolster,Wellness,Cojín Yoga,50,False,1,51.38,51.38,2024,Thursday,52.13
+2024-11-22,PROD_001,Nike Air Zoom Pegasus 40,Running,Zapatillas Running,115,True,18,118.06,2125.08,2024,Friday,91.52
+2024-11-22,PROD_002,Adidas Ultraboost 23,Running,Zapatillas Running,135,True,16,137.04,2192.64,2024,Friday,125.19
+2024-11-22,PROD_003,Asics Gel Nimbus 25,Running,Zapatillas Running,85,False,3,84.21,252.63,2024,Friday,77.4
+2024-11-22,PROD_004,New Balance Fresh Foam X 1080v12,Running,Zapatillas Running,75,False,4,75.84,303.36,2024,Friday,74.33
+2024-11-22,PROD_005,Nike Dri-FIT Miler,Running,Ropa Running,35,False,3,34.04,102.12,2024,Friday,35.18
+2024-11-22,PROD_006,Adidas Own The Run Jacket,Running,Ropa Running,65,False,3,63.28,189.84,2024,Friday,68.26
+2024-11-22,PROD_007,Puma Velocity Nitro 2,Running,Zapatillas Running,70,False,3,71.56,214.68,2024,Friday,72.57
+2024-11-22,PROD_008,Reebok Floatride Energy 5,Running,Zapatillas Running,65,False,3,64.6,193.8,2024,Friday,66.59
+2024-11-22,PROD_009,Bowflex SelectTech 552,Fitness,Mancuernas Ajustables,400,True,3,391.27,1173.81,2024,Friday,403.69
+2024-11-22,PROD_010,Domyos BM900,Fitness,Banco Gimnasio,175,True,3,173.51,520.53,2024,Friday,195.98
+2024-11-22,PROD_011,Reebok Professional Deck,Fitness,Esterilla Fitness,45,False,4,45.18,180.72,2024,Friday,46.83
+2024-11-22,PROD_012,Domyos Kit Mancuernas 20kg,Fitness,Pesas Casa,55,False,4,55.72,222.88,2024,Friday,49.82
+2024-11-22,PROD_013,Decathlon Bandas Elásticas Set,Fitness,Bandas Elásticas,25,False,4,24.26,97.04,2024,Friday,23.34
+2024-11-22,PROD_014,Sveltus Kettlebell 12kg,Fitness,Pesa Rusa,40,False,3,39.16,117.48,2024,Friday,37.84
+2024-11-22,PROD_015,Salomon Speedcross 5 GTX,Outdoor,Zapatillas Trail,150,True,4,154.14,616.56,2024,Friday,150.96
+2024-11-22,PROD_016,Trek Marlin 7,Outdoor,Bicicleta Montaña,830,True,5,810.69,4053.45,2024,Friday,838.83
+2024-11-22,PROD_017,The North Face Borealis,Outdoor,Mochila Trekking,95,False,3,94.35,283.05,2024,Friday,97.5
+2024-11-22,PROD_018,Columbia Silver Ridge,Outdoor,Ropa Montaña,70,False,3,69.89,209.67,2024,Friday,68.16
+2024-11-22,PROD_019,Merrell Moab 2 GTX,Outdoor,Zapatillas Trail,110,False,3,111.27,333.81,2024,Friday,104.42
+2024-11-22,PROD_020,Quechua MH500,Outdoor,Ropa Montaña,80,False,2,78.75,157.5,2024,Friday,73.91
+2024-11-22,PROD_021,Manduka PRO Yoga Mat,Wellness,Esterilla Yoga,130,True,7,127.65,893.55,2024,Friday,140.67
+2024-11-22,PROD_022,Gaiam Premium Yoga Block,Wellness,Bloque Yoga,20,False,2,20.27,40.54,2024,Friday,19.06
+2024-11-22,PROD_023,Liforme Yoga Pad,Wellness,Rodillera Yoga,35,False,1,35.92,35.92,2024,Friday,35.73
+2024-11-22,PROD_024,Lotuscrafts Yoga Bolster,Wellness,Cojín Yoga,50,False,1,49.03,49.03,2024,Friday,50.4
+2024-11-23,PROD_001,Nike Air Zoom Pegasus 40,Running,Zapatillas Running,115,True,16,114.24,1827.84,2024,Saturday,93.12
+2024-11-23,PROD_002,Adidas Ultraboost 23,Running,Zapatillas Running,135,True,21,136.0,2856.0,2024,Saturday,126.25
+2024-11-23,PROD_003,Asics Gel Nimbus 25,Running,Zapatillas Running,85,False,4,85.83,343.32,2024,Saturday,85.71
+2024-11-23,PROD_004,New Balance Fresh Foam X 1080v12,Running,Zapatillas Running,75,False,3,76.8,230.4,2024,Saturday,75.57
+2024-11-23,PROD_005,Nike Dri-FIT Miler,Running,Ropa Running,35,False,5,34.01,170.05,2024,Saturday,37.22
+2024-11-23,PROD_006,Adidas Own The Run Jacket,Running,Ropa Running,65,False,4,65.82,263.28,2024,Saturday,66.89
+2024-11-23,PROD_007,Puma Velocity Nitro 2,Running,Zapatillas Running,70,False,3,69.52,208.56,2024,Saturday,67.4
+2024-11-23,PROD_008,Reebok Floatride Energy 5,Running,Zapatillas Running,65,False,4,64.64,258.56,2024,Saturday,64.61
+2024-11-23,PROD_009,Bowflex SelectTech 552,Fitness,Mancuernas Ajustables,400,True,3,405.26,1215.78,2024,Saturday,409.39
+2024-11-23,PROD_010,Domyos BM900,Fitness,Banco Gimnasio,175,True,3,170.99,512.97,2024,Saturday,198.29
+2024-11-23,PROD_011,Reebok Professional Deck,Fitness,Esterilla Fitness,45,False,5,45.09,225.45,2024,Saturday,45.13
+2024-11-23,PROD_012,Domyos Kit Mancuernas 20kg,Fitness,Pesas Casa,55,False,5,54.14,270.7,2024,Saturday,56.3
+2024-11-23,PROD_013,Decathlon Bandas Elásticas Set,Fitness,Bandas Elásticas,25,False,4,24.93,99.72,2024,Saturday,23.76
+2024-11-23,PROD_014,Sveltus Kettlebell 12kg,Fitness,Pesa Rusa,40,False,6,39.37,236.22,2024,Saturday,38.66
+2024-11-23,PROD_015,Salomon Speedcross 5 GTX,Outdoor,Zapatillas Trail,150,True,5,153.42,767.1,2024,Saturday,148.62
+2024-11-23,PROD_016,Trek Marlin 7,Outdoor,Bicicleta Montaña,830,True,6,839.89,5039.34,2024,Saturday,823.97
+2024-11-23,PROD_017,The North Face Borealis,Outdoor,Mochila Trekking,95,False,3,94.52,283.56,2024,Saturday,104.06
+2024-11-23,PROD_018,Columbia Silver Ridge,Outdoor,Ropa Montaña,70,False,3,71.28,213.84,2024,Saturday,71.04
+2024-11-23,PROD_019,Merrell Moab 2 GTX,Outdoor,Zapatillas Trail,110,False,3,109.21,327.63,2024,Saturday,111.35
+2024-11-23,PROD_020,Quechua MH500,Outdoor,Ropa Montaña,80,False,3,81.42,244.26,2024,Saturday,81.94
+2024-11-23,PROD_021,Manduka PRO Yoga Mat,Wellness,Esterilla Yoga,130,True,10,126.92,1269.2,2024,Saturday,142.85
+2024-11-23,PROD_022,Gaiam Premium Yoga Block,Wellness,Bloque Yoga,20,False,2,20.19,40.38,2024,Saturday,20.75
+2024-11-23,PROD_023,Liforme Yoga Pad,Wellness,Rodillera Yoga,35,False,3,35.41,106.23,2024,Saturday,38.36
+2024-11-23,PROD_024,Lotuscrafts Yoga Bolster,Wellness,Cojín Yoga,50,False,2,48.7,97.4,2024,Saturday,51.24
+2024-11-24,PROD_001,Nike Air Zoom Pegasus 40,Running,Zapatillas Running,115,True,16,113.28,1812.48,2024,Sunday,92.7
+2024-11-24,PROD_002,Adidas Ultraboost 23,Running,Zapatillas Running,135,True,15,135.34,2030.1,2024,Sunday,124.48
+2024-11-24,PROD_003,Asics Gel Nimbus 25,Running,Zapatillas Running,85,False,4,86.15,344.6,2024,Sunday,84.34
+2024-11-24,PROD_004,New Balance Fresh Foam X 1080v12,Running,Zapatillas Running,75,False,4,73.27,293.08,2024,Sunday,73.34
+2024-11-24,PROD_005,Nike Dri-FIT Miler,Running,Ropa Running,35,False,3,34.71,104.13,2024,Sunday,35.83
+2024-11-24,PROD_006,Adidas Own The Run Jacket,Running,Ropa Running,65,False,3,64.79,194.37,2024,Sunday,67.17
+2024-11-24,PROD_007,Puma Velocity Nitro 2,Running,Zapatillas Running,70,False,2,70.15,140.3,2024,Sunday,63.83
+2024-11-24,PROD_008,Reebok Floatride Energy 5,Running,Zapatillas Running,65,False,3,63.14,189.42,2024,Sunday,65.9
+2024-11-24,PROD_009,Bowflex SelectTech 552,Fitness,Mancuernas Ajustables,400,True,3,391.01,1173.03,2024,Sunday,411.03
+2024-11-24,PROD_010,Domyos BM900,Fitness,Banco Gimnasio,175,True,4,170.98,683.92,2024,Sunday,192.24
+2024-11-24,PROD_011,Reebok Professional Deck,Fitness,Esterilla Fitness,45,False,4,45.65,182.6,2024,Sunday,44.14
+2024-11-24,PROD_012,Domyos Kit Mancuernas 20kg,Fitness,Pesas Casa,55,False,4,55.8,223.2,2024,Sunday,57.94
+2024-11-24,PROD_013,Decathlon Bandas Elásticas Set,Fitness,Bandas Elásticas,25,False,4,25.16,100.64,2024,Sunday,24.47
+2024-11-24,PROD_014,Sveltus Kettlebell 12kg,Fitness,Pesa Rusa,40,False,4,39.55,158.2,2024,Sunday,37.52
+2024-11-24,PROD_015,Salomon Speedcross 5 GTX,Outdoor,Zapatillas Trail,150,True,6,147.31,883.86,2024,Sunday,151.94
+2024-11-24,PROD_016,Trek Marlin 7,Outdoor,Bicicleta Montaña,830,True,4,852.26,3409.04,2024,Sunday,829.24
+2024-11-24,PROD_017,The North Face Borealis,Outdoor,Mochila Trekking,95,False,4,97.69,390.76,2024,Sunday,96.42
+2024-11-24,PROD_018,Columbia Silver Ridge,Outdoor,Ropa Montaña,70,False,3,70.34,211.02,2024,Sunday,68.83
+2024-11-24,PROD_019,Merrell Moab 2 GTX,Outdoor,Zapatillas Trail,110,False,2,109.78,219.56,2024,Sunday,119.31
+2024-11-24,PROD_020,Quechua MH500,Outdoor,Ropa Montaña,80,False,2,81.86,163.72,2024,Sunday,79.17
+2024-11-24,PROD_021,Manduka PRO Yoga Mat,Wellness,Esterilla Yoga,130,True,7,132.04,924.28,2024,Sunday,139.89
+2024-11-24,PROD_022,Gaiam Premium Yoga Block,Wellness,Bloque Yoga,20,False,2,20.15,40.3,2024,Sunday,19.75
+2024-11-24,PROD_023,Liforme Yoga Pad,Wellness,Rodillera Yoga,35,False,2,35.25,70.5,2024,Sunday,35.41
+2024-11-24,PROD_024,Lotuscrafts Yoga Bolster,Wellness,Cojín Yoga,50,False,1,51.07,51.07,2024,Sunday,46.8
+2024-11-25,PROD_001,Nike Air Zoom Pegasus 40,Running,Zapatillas Running,115,True,12,116.78,1401.36,2024,Monday,92.03
+2024-11-25,PROD_002,Adidas Ultraboost 23,Running,Zapatillas Running,135,True,15,134.82,2022.3,2024,Monday,126.75
+2024-11-25,PROD_003,Asics Gel Nimbus 25,Running,Zapatillas Running,85,False,3,87.27,261.81,2024,Monday,79.97
+2024-11-25,PROD_004,New Balance Fresh Foam X 1080v12,Running,Zapatillas Running,75,False,3,75.32,225.96,2024,Monday,81.61
+2024-11-25,PROD_005,Nike Dri-FIT Miler,Running,Ropa Running,35,False,2,35.64,71.28,2024,Monday,32.92
+2024-11-25,PROD_006,Adidas Own The Run Jacket,Running,Ropa Running,65,False,3,64.3,192.9,2024,Monday,62.43
+2024-11-25,PROD_007,Puma Velocity Nitro 2,Running,Zapatillas Running,70,False,3,69.18,207.54,2024,Monday,72.13
+2024-11-25,PROD_008,Reebok Floatride Energy 5,Running,Zapatillas Running,65,False,2,66.26,132.52,2024,Monday,61.52
+2024-11-25,PROD_009,Bowflex SelectTech 552,Fitness,Mancuernas Ajustables,400,True,3,394.79,1184.37,2024,Monday,414.97
+2024-11-25,PROD_010,Domyos BM900,Fitness,Banco Gimnasio,175,True,2,174.02,348.04,2024,Monday,194.44
+2024-11-25,PROD_011,Reebok Professional Deck,Fitness,Esterilla Fitness,45,False,4,43.95,175.8,2024,Monday,45.6
+2024-11-25,PROD_012,Domyos Kit Mancuernas 20kg,Fitness,Pesas Casa,55,False,4,54.38,217.52,2024,Monday,56.47
+2024-11-25,PROD_013,Decathlon Bandas Elásticas Set,Fitness,Bandas Elásticas,25,False,3,24.27,72.81,2024,Monday,26.34
+2024-11-25,PROD_014,Sveltus Kettlebell 12kg,Fitness,Pesa Rusa,40,False,3,40.18,120.54,2024,Monday,41.2
+2024-11-25,PROD_015,Salomon Speedcross 5 GTX,Outdoor,Zapatillas Trail,150,True,5,153.87,769.35,2024,Monday,146.8
+2024-11-25,PROD_016,Trek Marlin 7,Outdoor,Bicicleta Montaña,830,True,4,826.16,3304.64,2024,Monday,819.97
+2024-11-25,PROD_017,The North Face Borealis,Outdoor,Mochila Trekking,95,False,3,93.78,281.34,2024,Monday,96.12
+2024-11-25,PROD_018,Columbia Silver Ridge,Outdoor,Ropa Montaña,70,False,2,71.26,142.52,2024,Monday,75.34
+2024-11-25,PROD_019,Merrell Moab 2 GTX,Outdoor,Zapatillas Trail,110,False,2,113.26,226.52,2024,Monday,119.96
+2024-11-25,PROD_020,Quechua MH500,Outdoor,Ropa Montaña,80,False,2,79.41,158.82,2024,Monday,78.14
+2024-11-25,PROD_021,Manduka PRO Yoga Mat,Wellness,Esterilla Yoga,130,True,6,130.76,784.56,2024,Monday,142.42
+2024-11-25,PROD_022,Gaiam Premium Yoga Block,Wellness,Bloque Yoga,20,False,2,19.44,38.88,2024,Monday,21.89
+2024-11-25,PROD_023,Liforme Yoga Pad,Wellness,Rodillera Yoga,35,False,2,34.64,69.28,2024,Monday,35.13
+2024-11-25,PROD_024,Lotuscrafts Yoga Bolster,Wellness,Cojín Yoga,50,False,2,48.75,97.5,2024,Monday,49.26
+2024-11-26,PROD_001,Nike Air Zoom Pegasus 40,Running,Zapatillas Running,115,True,18,118.22,2127.96,2024,Tuesday,84.51
+2024-11-26,PROD_002,Adidas Ultraboost 23,Running,Zapatillas Running,135,True,19,137.86,2619.34,2024,Tuesday,116.67
+2024-11-26,PROD_003,Asics Gel Nimbus 25,Running,Zapatillas Running,85,False,5,84.17,420.85,2024,Tuesday,77.49
+2024-11-26,PROD_004,New Balance Fresh Foam X 1080v12,Running,Zapatillas Running,75,False,4,77.1,308.4,2024,Tuesday,73.88
+2024-11-26,PROD_005,Nike Dri-FIT Miler,Running,Ropa Running,35,False,4,34.23,136.92,2024,Tuesday,37.85
+2024-11-26,PROD_006,Adidas Own The Run Jacket,Running,Ropa Running,65,False,4,66.35,265.4,2024,Tuesday,71.28
+2024-11-26,PROD_007,Puma Velocity Nitro 2,Running,Zapatillas Running,70,False,3,71.39,214.17,2024,Tuesday,67.33
+2024-11-26,PROD_008,Reebok Floatride Energy 5,Running,Zapatillas Running,65,False,3,66.58,199.74,2024,Tuesday,64.68
+2024-11-26,PROD_009,Bowflex SelectTech 552,Fitness,Mancuernas Ajustables,400,True,3,388.12,1164.36,2024,Tuesday,379.78
+2024-11-26,PROD_010,Domyos BM900,Fitness,Banco Gimnasio,175,True,3,179.48,538.44,2024,Tuesday,175.39
+2024-11-26,PROD_011,Reebok Professional Deck,Fitness,Esterilla Fitness,45,False,5,45.42,227.1,2024,Tuesday,44.83
+2024-11-26,PROD_012,Domyos Kit Mancuernas 20kg,Fitness,Pesas Casa,55,False,6,54.29,325.74,2024,Tuesday,56.16
+2024-11-26,PROD_013,Decathlon Bandas Elásticas Set,Fitness,Bandas Elásticas,25,False,3,24.32,72.96,2024,Tuesday,26.26
+2024-11-26,PROD_014,Sveltus Kettlebell 12kg,Fitness,Pesa Rusa,40,False,4,39.69,158.76,2024,Tuesday,38.72
+2024-11-26,PROD_015,Salomon Speedcross 5 GTX,Outdoor,Zapatillas Trail,150,True,5,146.52,732.6,2024,Tuesday,140.25
+2024-11-26,PROD_016,Trek Marlin 7,Outdoor,Bicicleta Montaña,830,True,4,852.11,3408.44,2024,Tuesday,784.54
+2024-11-26,PROD_017,The North Face Borealis,Outdoor,Mochila Trekking,95,False,3,97.66,292.98,2024,Tuesday,94.69
+2024-11-26,PROD_018,Columbia Silver Ridge,Outdoor,Ropa Montaña,70,False,3,70.16,210.48,2024,Tuesday,70.82
+2024-11-26,PROD_019,Merrell Moab 2 GTX,Outdoor,Zapatillas Trail,110,False,3,111.74,335.22,2024,Tuesday,105.65
+2024-11-26,PROD_020,Quechua MH500,Outdoor,Ropa Montaña,80,False,3,81.49,244.47,2024,Tuesday,73.96
+2024-11-26,PROD_021,Manduka PRO Yoga Mat,Wellness,Esterilla Yoga,130,True,7,133.78,936.46,2024,Tuesday,132.23
+2024-11-26,PROD_022,Gaiam Premium Yoga Block,Wellness,Bloque Yoga,20,False,2,20.53,41.06,2024,Tuesday,19.66
+2024-11-26,PROD_023,Liforme Yoga Pad,Wellness,Rodillera Yoga,35,False,2,34.43,68.86,2024,Tuesday,37.83
+2024-11-26,PROD_024,Lotuscrafts Yoga Bolster,Wellness,Cojín Yoga,50,False,2,48.69,97.38,2024,Tuesday,48.29
+2024-11-27,PROD_001,Nike Air Zoom Pegasus 40,Running,Zapatillas Running,115,True,13,116.6,1515.8,2024,Wednesday,83.53
+2024-11-27,PROD_002,Adidas Ultraboost 23,Running,Zapatillas Running,135,True,16,132.4,2118.4,2024,Wednesday,118.64
+2024-11-27,PROD_003,Asics Gel Nimbus 25,Running,Zapatillas Running,85,False,4,82.81,331.24,2024,Wednesday,88.06
+2024-11-27,PROD_004,New Balance Fresh Foam X 1080v12,Running,Zapatillas Running,75,False,4,76.62,306.48,2024,Wednesday,71.72
+2024-11-27,PROD_005,Nike Dri-FIT Miler,Running,Ropa Running,35,False,4,35.77,143.08,2024,Wednesday,33.59
+2024-11-27,PROD_006,Adidas Own The Run Jacket,Running,Ropa Running,65,False,4,63.7,254.8,2024,Wednesday,67.54
+2024-11-27,PROD_007,Puma Velocity Nitro 2,Running,Zapatillas Running,70,False,3,70.65,211.95,2024,Wednesday,73.99
+2024-11-27,PROD_008,Reebok Floatride Energy 5,Running,Zapatillas Running,65,False,3,63.36,190.08,2024,Wednesday,63.82
+2024-11-27,PROD_009,Bowflex SelectTech 552,Fitness,Mancuernas Ajustables,400,True,3,398.17,1194.51,2024,Wednesday,382.87
+2024-11-27,PROD_010,Domyos BM900,Fitness,Banco Gimnasio,175,True,3,177.79,533.37,2024,Wednesday,177.72
+2024-11-27,PROD_011,Reebok Professional Deck,Fitness,Esterilla Fitness,45,False,4,43.8,175.2,2024,Wednesday,43.31
+2024-11-27,PROD_012,Domyos Kit Mancuernas 20kg,Fitness,Pesas Casa,55,False,5,56.2,281.0,2024,Wednesday,57.72
+2024-11-27,PROD_013,Decathlon Bandas Elásticas Set,Fitness,Bandas Elásticas,25,False,5,25.7,128.5,2024,Wednesday,27.02
+2024-11-27,PROD_014,Sveltus Kettlebell 12kg,Fitness,Pesa Rusa,40,False,4,40.08,160.32,2024,Wednesday,41.33
+2024-11-27,PROD_015,Salomon Speedcross 5 GTX,Outdoor,Zapatillas Trail,150,True,4,150.45,601.8,2024,Wednesday,140.68
+2024-11-27,PROD_016,Trek Marlin 7,Outdoor,Bicicleta Montaña,830,True,4,806.46,3225.84,2024,Wednesday,751.4
+2024-11-27,PROD_017,The North Face Borealis,Outdoor,Mochila Trekking,95,False,3,95.69,287.07,2024,Wednesday,93.42
+2024-11-27,PROD_018,Columbia Silver Ridge,Outdoor,Ropa Montaña,70,False,3,70.52,211.56,2024,Wednesday,69.76
+2024-11-27,PROD_019,Merrell Moab 2 GTX,Outdoor,Zapatillas Trail,110,False,4,108.95,435.8,2024,Wednesday,114.56
+2024-11-27,PROD_020,Quechua MH500,Outdoor,Ropa Montaña,80,False,2,78.53,157.06,2024,Wednesday,78.44
+2024-11-27,PROD_021,Manduka PRO Yoga Mat,Wellness,Esterilla Yoga,130,True,9,127.21,1144.89,2024,Wednesday,127.74
+2024-11-27,PROD_022,Gaiam Premium Yoga Block,Wellness,Bloque Yoga,20,False,3,20.5,61.5,2024,Wednesday,20.34
+2024-11-27,PROD_023,Liforme Yoga Pad,Wellness,Rodillera Yoga,35,False,2,34.28,68.56,2024,Wednesday,35.39
+2024-11-27,PROD_024,Lotuscrafts Yoga Bolster,Wellness,Cojín Yoga,50,False,2,49.77,99.54,2024,Wednesday,52.96
+2024-11-28,PROD_001,Nike Air Zoom Pegasus 40,Running,Zapatillas Running,115,True,15,117.58,1763.7,2024,Thursday,87.31
+2024-11-28,PROD_002,Adidas Ultraboost 23,Running,Zapatillas Running,135,True,18,136.28,2453.04,2024,Thursday,117.45
+2024-11-28,PROD_003,Asics Gel Nimbus 25,Running,Zapatillas Running,85,False,3,87.03,261.09,2024,Thursday,82.1
+2024-11-28,PROD_004,New Balance Fresh Foam X 1080v12,Running,Zapatillas Running,75,False,4,75.92,303.68,2024,Thursday,72.23
+2024-11-28,PROD_005,Nike Dri-FIT Miler,Running,Ropa Running,35,False,3,35.57,106.71,2024,Thursday,34.38
+2024-11-28,PROD_006,Adidas Own The Run Jacket,Running,Ropa Running,65,False,4,64.61,258.44,2024,Thursday,58.95
+2024-11-28,PROD_007,Puma Velocity Nitro 2,Running,Zapatillas Running,70,False,3,69.88,209.64,2024,Thursday,67.13
+2024-11-28,PROD_008,Reebok Floatride Energy 5,Running,Zapatillas Running,65,False,3,63.68,191.04,2024,Thursday,65.63
+2024-11-28,PROD_009,Bowflex SelectTech 552,Fitness,Mancuernas Ajustables,400,True,3,399.99,1199.97,2024,Thursday,375.12
+2024-11-28,PROD_010,Domyos BM900,Fitness,Banco Gimnasio,175,True,3,170.09,510.27,2024,Thursday,181.55
+2024-11-28,PROD_011,Reebok Professional Deck,Fitness,Esterilla Fitness,45,False,5,44.17,220.85,2024,Thursday,46.56
+2024-11-28,PROD_012,Domyos Kit Mancuernas 20kg,Fitness,Pesas Casa,55,False,5,55.42,277.1,2024,Thursday,51.47
+2024-11-28,PROD_013,Decathlon Bandas Elásticas Set,Fitness,Bandas Elásticas,25,False,6,24.25,145.5,2024,Thursday,23.56
+2024-11-28,PROD_014,Sveltus Kettlebell 12kg,Fitness,Pesa Rusa,40,False,4,41.02,164.08,2024,Thursday,41.35
+2024-11-28,PROD_015,Salomon Speedcross 5 GTX,Outdoor,Zapatillas Trail,150,True,6,149.94,899.64,2024,Thursday,137.55
+2024-11-28,PROD_016,Trek Marlin 7,Outdoor,Bicicleta Montaña,830,True,5,819.83,4099.15,2024,Thursday,751.78
+2024-11-28,PROD_017,The North Face Borealis,Outdoor,Mochila Trekking,95,False,3,97.14,291.42,2024,Thursday,96.33
+2024-11-28,PROD_018,Columbia Silver Ridge,Outdoor,Ropa Montaña,70,False,3,71.84,215.52,2024,Thursday,70.99
+2024-11-28,PROD_019,Merrell Moab 2 GTX,Outdoor,Zapatillas Trail,110,False,2,107.87,215.74,2024,Thursday,116.28
+2024-11-28,PROD_020,Quechua MH500,Outdoor,Ropa Montaña,80,False,2,80.6,161.2,2024,Thursday,80.63
+2024-11-28,PROD_021,Manduka PRO Yoga Mat,Wellness,Esterilla Yoga,130,True,7,131.29,919.03,2024,Thursday,131.36
+2024-11-28,PROD_022,Gaiam Premium Yoga Block,Wellness,Bloque Yoga,20,False,2,19.57,39.14,2024,Thursday,19.65
+2024-11-28,PROD_023,Liforme Yoga Pad,Wellness,Rodillera Yoga,35,False,2,34.21,68.42,2024,Thursday,36.25
+2024-11-28,PROD_024,Lotuscrafts Yoga Bolster,Wellness,Cojín Yoga,50,False,2,49.83,99.66,2024,Thursday,51.44
+2024-11-29,PROD_001,Nike Air Zoom Pegasus 40,Running,Zapatillas Running,115,True,66,97.75,6451.5,2024,Friday,88.2625
+2024-11-29,PROD_002,Adidas Ultraboost 23,Running,Zapatillas Running,135,True,68,114.75,7803.0,2024,Friday,122.5125
+2024-11-29,PROD_003,Asics Gel Nimbus 25,Running,Zapatillas Running,85,False,18,72.25,1300.5,2024,Friday,74.11
+2024-11-29,PROD_004,New Balance Fresh Foam X 1080v12,Running,Zapatillas Running,75,False,14,63.75,892.5,2024,Friday,66.16
+2024-11-29,PROD_005,Nike Dri-FIT Miler,Running,Ropa Running,35,False,14,29.75,416.5,2024,Friday,31.64
+2024-11-29,PROD_006,Adidas Own The Run Jacket,Running,Ropa Running,65,False,12,55.25,663.0,2024,Friday,55.97
+2024-11-29,PROD_007,Puma Velocity Nitro 2,Running,Zapatillas Running,70,False,13,59.5,773.5,2024,Friday,61.98
+2024-11-29,PROD_008,Reebok Floatride Energy 5,Running,Zapatillas Running,65,False,12,55.25,663.0,2024,Friday,55.08
+2024-11-29,PROD_009,Bowflex SelectTech 552,Fitness,Mancuernas Ajustables,400,True,10,360.0,3600.0,2024,Friday,384.625
+2024-11-29,PROD_010,Domyos BM900,Fitness,Banco Gimnasio,175,True,12,157.5,1890.0,2024,Friday,183.0875
+2024-11-29,PROD_011,Reebok Professional Deck,Fitness,Esterilla Fitness,45,False,21,40.5,850.5,2024,Friday,39.34
+2024-11-29,PROD_012,Domyos Kit Mancuernas 20kg,Fitness,Pesas Casa,55,False,22,49.5,1089.0,2024,Friday,47.32
+2024-11-29,PROD_013,Decathlon Bandas Elásticas Set,Fitness,Bandas Elásticas,25,False,16,22.5,360.0,2024,Friday,20.68
+2024-11-29,PROD_014,Sveltus Kettlebell 12kg,Fitness,Pesa Rusa,40,False,16,36.0,576.0,2024,Friday,34.18
+2024-11-29,PROD_015,Salomon Speedcross 5 GTX,Outdoor,Zapatillas Trail,150,True,24,135.0,3240.0,2024,Friday,146.925
+2024-11-29,PROD_016,Trek Marlin 7,Outdoor,Bicicleta Montaña,830,True,16,747.0,11952.0,2024,Friday,821.2375
+2024-11-29,PROD_017,The North Face Borealis,Outdoor,Mochila Trekking,95,False,13,85.5,1111.5,2024,Friday,77.89
+2024-11-29,PROD_018,Columbia Silver Ridge,Outdoor,Ropa Montaña,70,False,12,63.0,756.0,2024,Friday,67.36
+2024-11-29,PROD_019,Merrell Moab 2 GTX,Outdoor,Zapatillas Trail,110,False,10,99.0,990.0,2024,Friday,95.59
+2024-11-29,PROD_020,Quechua MH500,Outdoor,Ropa Montaña,80,False,10,72.0,720.0,2024,Friday,75.41
+2024-11-29,PROD_021,Manduka PRO Yoga Mat,Wellness,Esterilla Yoga,130,True,27,123.5,3334.5,2024,Friday,136.05
+2024-11-29,PROD_022,Gaiam Premium Yoga Block,Wellness,Bloque Yoga,20,False,8,19.0,152.0,2024,Friday,18.61
+2024-11-29,PROD_023,Liforme Yoga Pad,Wellness,Rodillera Yoga,35,False,8,33.25,266.0,2024,Friday,33.38
+2024-11-29,PROD_024,Lotuscrafts Yoga Bolster,Wellness,Cojín Yoga,50,False,8,47.5,380.0,2024,Friday,42.17
+2024-11-30,PROD_001,Nike Air Zoom Pegasus 40,Running,Zapatillas Running,115,True,80,101.2,8096.0,2024,Saturday,97.025
+2024-11-30,PROD_002,Adidas Ultraboost 23,Running,Zapatillas Running,135,True,65,118.8,7722.0,2024,Saturday,128.2625
+2024-11-30,PROD_003,Asics Gel Nimbus 25,Running,Zapatillas Running,85,False,20,74.8,1496.0,2024,Saturday,87.6
+2024-11-30,PROD_004,New Balance Fresh Foam X 1080v12,Running,Zapatillas Running,75,False,12,66.0,792.0,2024,Saturday,68.99
+2024-11-30,PROD_005,Nike Dri-FIT Miler,Running,Ropa Running,35,False,12,30.8,369.6,2024,Saturday,37.99
+2024-11-30,PROD_006,Adidas Own The Run Jacket,Running,Ropa Running,65,False,13,57.2,743.6,2024,Saturday,64.8
+2024-11-30,PROD_007,Puma Velocity Nitro 2,Running,Zapatillas Running,70,False,12,61.6,739.2,2024,Saturday,67.02
+2024-11-30,PROD_008,Reebok Floatride Energy 5,Running,Zapatillas Running,65,False,12,57.2,686.4,2024,Saturday,62.97
+2024-11-30,PROD_009,Bowflex SelectTech 552,Fitness,Mancuernas Ajustables,400,True,11,368.0,4048.0,2024,Saturday,420.5875
+2024-11-30,PROD_010,Domyos BM900,Fitness,Banco Gimnasio,175,True,11,161.0,1771.0,2024,Saturday,195.9375
+2024-11-30,PROD_011,Reebok Professional Deck,Fitness,Esterilla Fitness,45,False,19,41.4,786.6,2024,Saturday,46.86
+2024-11-30,PROD_012,Domyos Kit Mancuernas 20kg,Fitness,Pesas Casa,55,False,19,50.6,961.4,2024,Saturday,54.1
+2024-11-30,PROD_013,Decathlon Bandas Elásticas Set,Fitness,Bandas Elásticas,25,False,20,23.0,460.0,2024,Saturday,24.27
+2024-11-30,PROD_014,Sveltus Kettlebell 12kg,Fitness,Pesa Rusa,40,False,17,36.8,625.6,2024,Saturday,42.03
+2024-11-30,PROD_015,Salomon Speedcross 5 GTX,Outdoor,Zapatillas Trail,150,True,19,138.0,2622.0,2024,Saturday,157.3125
+2024-11-30,PROD_016,Trek Marlin 7,Outdoor,Bicicleta Montaña,830,True,18,763.6,13744.8,2024,Saturday,855.175
+2024-11-30,PROD_017,The North Face Borealis,Outdoor,Mochila Trekking,95,False,15,87.4,1311.0,2024,Saturday,90.14
+2024-11-30,PROD_018,Columbia Silver Ridge,Outdoor,Ropa Montaña,70,False,11,64.4,708.4,2024,Saturday,77.11
+2024-11-30,PROD_019,Merrell Moab 2 GTX,Outdoor,Zapatillas Trail,110,False,10,101.2,1012.0,2024,Saturday,110.09
+2024-11-30,PROD_020,Quechua MH500,Outdoor,Ropa Montaña,80,False,9,73.6,662.4,2024,Saturday,86.2
+2024-11-30,PROD_021,Manduka PRO Yoga Mat,Wellness,Esterilla Yoga,130,True,25,124.8,3120.0,2024,Saturday,141.7125
+2024-11-30,PROD_022,Gaiam Premium Yoga Block,Wellness,Bloque Yoga,20,False,9,19.2,172.8,2024,Saturday,20.37
+2024-11-30,PROD_023,Liforme Yoga Pad,Wellness,Rodillera Yoga,35,False,9,33.6,302.4,2024,Saturday,32.64
+2024-11-30,PROD_024,Lotuscrafts Yoga Bolster,Wellness,Cojín Yoga,50,False,9,48.0,432.0,2024,Saturday,46.58
