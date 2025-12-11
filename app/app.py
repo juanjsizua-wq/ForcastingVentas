@@ -424,10 +424,11 @@ else:
     col1, col2, col3 = st.columns(3)
     
     with col1:
+        num_productos = len(productos)
         st.info(f"""
         **📦 Productos Disponibles**
         
-        Total: {len(productos)} productos
+        Total: {num_productos} productos
         """)
     
     with col2:
