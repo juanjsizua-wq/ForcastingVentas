@@ -1,5 +1,5 @@
 ---
-title: Simulador de Ventas ML
+title: Simulador de Ventas con ML
 emoji: 📊
 colorFrom: blue
 colorTo: purple
@@ -10,37 +10,66 @@ pinned: false
 license: mit
 ---
 
-# 📊 Simulador de Ventas con Machine Learning
+# 📊 Simulador de Ventas - Noviembre 2025
 
-Aplicación interactiva para predicción de ventas de Noviembre 2025 usando Machine Learning.
+## 🎯 Descripción
 
-## 🎯 Características
+Aplicación interactiva de **Machine Learning** para predecir ventas diarias de productos deportivos durante Noviembre 2025, incluyendo el impacto del **Black Friday**.
 
-- ✅ Predicciones día a día con HistGradientBoostingRegressor
-- 💰 Simulador interactivo de descuentos Black Friday
-- 📈 Análisis de competencia en tiempo real
-- 📊 Visualizaciones dinámicas
-- 🔥 Escenarios de Black Friday
+## ✨ Características
 
-## 🛠️ Tecnologías
+- 📈 **Predicciones día a día** con HistGradientBoostingRegressor
+- 💰 **Simulador de descuentos** interactivo (-50% a +50%)
+- 🏪 **Análisis de competencia** (Amazon, Decathlon, Deporvillage)
+- 🔥 **Análisis especial Black Friday** (28 de Noviembre)
+- 📊 **Visualizaciones dinámicas** con gráficos y tablas
+- 🎯 **20 productos** en 3 categorías: Outdoor, Running, Wellness
 
-- **Python** | **Streamlit** | **Scikit-learn** | **Pandas**
-- Machine Learning: Forecasting de ventas
-- 20 productos de deporte (Outdoor, Running, Wellness)
+## 🛠️ Stack Tecnológico
+
+- **Python 3.10+**
+- **Streamlit** - Framework de la aplicación
+- **Scikit-learn** - Machine Learning (HistGradientBoosting)
+- **Pandas & NumPy** - Procesamiento de datos
+- **Matplotlib & Seaborn** - Visualizaciones
 
 ## 🚀 Uso
 
 1. Selecciona un producto del catálogo
-2. Ajusta el porcentaje de descuento
+2. Ajusta el descuento deseado (-50% a +50%)
 3. Elige el escenario de competencia
-4. Simula las ventas del mes
+4. Haz clic en **"Simular Ventas"**
+5. Analiza las predicciones diarias y KPIs
 
 ## 📦 Productos Disponibles
 
-- Categorías: Outdoor, Running, Wellness
-- 20 productos de equipamiento deportivo
-- Análisis vs Amazon, Decathlon, Deporvillage
+### 🏃 Running
+- Zapatillas Running, Zapatillas Trail, Ropa Running
 
----
+### 🏔️ Outdoor
+- Mochila Trekking, Bicicleta Montaña, Ropa Montaña
 
-Desarrollado con ❤️ usando Machine Learning
+### 🧘 Wellness
+- Esterillas (Yoga/Fitness), Mancuernas, Pesas, Bloques y accesorios de Yoga
+
+## 📊 KPIs Principales
+
+- **Unidades Totales Proyectadas** por mes
+- **Ingresos Totales** esperados
+- **Precio Promedio** de venta
+- **Descuento Promedio** aplicado
+
+## 🤖 Modelo de Machine Learning
+
+- **Algoritmo:** HistGradientBoostingRegressor
+- **Predicción recursiva:** Actualización día a día con lags
+- **Features:** Precio, competencia, categoría, día de semana, estacionalidad
+- **Target:** Unidades vendidas diarias
+
+## 📝 Autor
+
+Desarrollado por **juanjsizua-wq**
+
+## 📄 Licencia
+
+MIT License
