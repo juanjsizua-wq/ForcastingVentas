@@ -423,23 +423,25 @@ else:
     st.markdown("---")
     col1, col2, col3 = st.columns(3)
     
+    # Calcular número de productos de forma segura
+    total_productos = len(productos)
+    
     with col1:
-        num_productos = len(productos)
         st.info(f"""
         **📦 Productos Disponibles**
         
-        Total: {num_productos} productos
+        Total: {total_productos} productos
         """)
     
     with col2:
-        st.info(f"""
+        st.info("""
         **📅 Período de Análisis**
         
         Noviembre 2025 (30 días)
         """)
     
     with col3:
-        st.info(f"""
+        st.info("""
         **🤖 Modelo ML**
         
         HistGradientBoostingRegressor
