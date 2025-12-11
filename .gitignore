@@ -12,7 +12,7 @@ __pycache__/
 *.py[cod]
 
 # Datos sensibles o temporales
-data/raw/
+#data/raw/
 #data/processed/
 
 # Archivos de Jupyter Notebook checkpoints
@@ -23,4 +23,4 @@ notebooks/.ipynb_checkpoints/
 
 # Otros
 #models/
-*.tmp
+#*.tmp
