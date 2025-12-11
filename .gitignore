@@ -1,26 +1,23 @@
-# Ignorar archivos y carpetas innecesarios
-
-# Archivos de sistema
-.DS_Store
-
-# Entornos virtuales
-venv/
-.env
-
-# Archivos de caché
+# Python
 __pycache__/
 *.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
 
-# Datos sensibles o temporales
-#data/raw/
-#data/processed/
+# Jupyter Notebook
+.ipynb_checkpoints
 
-# Archivos de Jupyter Notebook checkpoints
-notebooks/.ipynb_checkpoints/
+# IDE
+.vscode/
+.idea/
 
-# Archivos de logs
-*.log
+# OS
+.DS_Store
+Thumbs.db
 
-# Otros
-#models/
-#*.tmp
+# Streamlit
+.streamlit/secrets.toml
