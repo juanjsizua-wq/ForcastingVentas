@@ -8,7 +8,7 @@ from datetime import datetime
 import warnings
 warnings.filterwarnings('ignore')
 
-# App Version 1.1 - Optimizada y corregida
+# App Version 1.2 - Fix NameError productos variable
 # Configuración de la página
 st.set_page_config(
     page_title="Simulador de Ventas - Noviembre 2025",
